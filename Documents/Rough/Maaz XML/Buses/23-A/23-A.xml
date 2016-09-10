@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>23-A</VehicleName>
+<StartPoint>
+<StartPointName>Tower</StartPointName>
+<StartPointLat>24.876961</StartPointLat>
+<StartPointLong>67.059828</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Naval Colony</BusStopName>
+<BusStopLat>24.945319</BusStopLat>
+<BusStopLong>66.937743</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Mauripur</EndPointName>
+<EndPointLat>24.86803</EndPointLat>
+<EndPointLong>66.918385</EndPointLong>
+</EndPoint>
+
+</Vehicle>

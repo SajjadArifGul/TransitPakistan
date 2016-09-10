@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>19-D</VehicleName>
+<StartPoint>
+<StartPointName>Faqeer Colony</StartPointName>
+<StartPointLat>24.928753</StartPointLat>
+<StartPointLong>66.984281</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Ruby Cinema</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hub River Road</BusStopName>
+<BusStopLat>24.929105</BusStopLat>
+<BusStopLong>66.942539</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chakiwara</BusStopName>
+<BusStopLat>24.867666</BusStopLat>
+<BusStopLong>66.998056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jamila Street</BusStopName>
+<BusStopLat>24.873318</BusStopLat>
+<BusStopLong>67.006886</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nishter Road</BusStopName>
+<BusStopLat>24.888391</BusStopLat>
+<BusStopLong>67.034313</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baba Urdu Road</BusStopName>
+<BusStopLat>24.858606</BusStopLat>
+<BusStopLong>67.009498</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahra-e-Liaquat</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Fresco Chowk</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mohammad Bin Qasim Road</BusStopName>
+<BusStopLat>24.855007</BusStopLat>
+<BusStopLong>67.015268</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mansfield Street</BusStopName>
+<BusStopLat>24.864111</BusStopLat>
+<BusStopLong>67.029789</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Empress Markett</BusStopName>
+<BusStopLat>24.864089</BusStopLat>
+<BusStopLong>67.027842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mir Karim Ali Talpur Road</BusStopName>
+<BusStopLat>24.859486</BusStopLat>
+<BusStopLong>67.031211</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Wellington Street</BusStopName>
+<BusStopLat>24.859021</BusStopLat>
+<BusStopLong>67.032119</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Clifton</BusStopName>
+<BusStopLat>24.824796</BusStopLat>
+<BusStopLong>67.031566</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dehli Colony</BusStopName>
+<BusStopLat>24.905429</BusStopLat>
+<BusStopLong>67.107874</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gizri</BusStopName>
+<BusStopLat>24.82112</BusStopLat>
+<BusStopLong>67.04348</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Zamzaman Neelam Colony</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah Shah Ghazi</BusStopName>
+<BusStopLat>24.881005</BusStopLat>
+<BusStopLong>67.203483</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khyaban Saadi</BusStopName>
+<BusStopLat>24.827095</BusStopLat>
+<BusStopLong>67.075299</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bilawal Chowrangi</BusStopName>
+<BusStopLat>24.919279</BusStopLat>
+<BusStopLong>67.133307</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Kharkar Chowrangi</EndPointName>
+<EndPointLat>24.81557</EndPointLat>
+<EndPointLong>67.020489</EndPointLong>
+</EndPoint>
+</Vehicle>

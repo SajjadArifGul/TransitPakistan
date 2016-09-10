@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>22</VehicleName>
+<StartPoint>
+<StartPointName>Behar Colony</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Meesa Lane</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kharadar</BusStopName>
+<BusStopLat>24.85039</BusStopLat>
+<BusStopLong>66.995078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.W Tower</BusStopName>
+<BusStopLat>24.834721</BusStopLat>
+<BusStopLong>67.070906</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Dockyard</EndPointName>
+<EndPointLat>24.841648</EndPointLat>
+<EndPointLong>66.976878</EndPointLong>
+</EndPoint>
+</Vehicle>

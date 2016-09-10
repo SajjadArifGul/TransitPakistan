@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>59</VehicleName>
+<StartPoint>
+<StartPointName>Gadap Goth</StartPointName>
+<StartPointLat>25.069028</StartPointLat>
+<StartPointLong>67.244684</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Manghopir</BusStopName>
+<BusStopLat>24.946496</BusStopLat>
+<BusStopLong>67.021816</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras Colony</BusStopName>
+<BusStopLat>24.928098</BusStopLat>
+<BusStopLong>66.979704</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika Mills</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Rexer Lines</BusStopName>
+<BusStopLat>24.869088</BusStopLat>
+<BusStopLong>67.002997</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Lee Market</EndPointName>
+<EndPointLat>24.867994</EndPointLat>
+<EndPointLong>67.01739</EndPointLong>
+</EndPoint>
+</Vehicle>

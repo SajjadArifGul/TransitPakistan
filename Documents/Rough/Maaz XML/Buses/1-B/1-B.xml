@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>1-B</VehicleName>
+<StartPoint>
+<StartPointName>Nazimabad</StartPointName>
+<StartPointLat>24.911098</StartPointLat>
+<StartPointLong>67.028587</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Bara Maidan</BusStopName>
+<BusStopLat>24.916626</BusStopLat>
+<BusStopLong>67.021762</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Barness Street</BusStopName>
+<BusStopLat>24.866018</BusStopLat>
+<BusStopLong>67.016282</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

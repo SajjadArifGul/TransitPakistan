@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>11-A</VehicleName>
+<StartPoint>
+<StartPointName>Gulistan-e-Jouhar</StartPointName>
+<StartPointLat>24.926295</StartPointLat>
+<StartPointLong>67.130499</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Sufari Park</BusStopName>
+<BusStopLat>24.924774</BusStopLat>
+<BusStopLong>67.109945</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Civic Centre</BusStopName>
+<BusStopLat>24.901118</BusStopLat>
+<BusStopLong>67.072711</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabzi Mandi</BusStopName>
+<BusStopLat>24.995757</BusStopLat>
+<BusStopLong>67.157524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderabad Colony</BusStopName>
+<BusStopLat>24.88551</BusStopLat>
+<BusStopLong>67.054278</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Regal</BusStopName>
+<BusStopLat>24.860531</BusStopLat>
+<BusStopLong>67.024136</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saeed Manzil</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>M.A Jinnah Road</EndPointName>
+<EndPointLat>24.860787</EndPointLat>
+<EndPointLong>67.017802</EndPointLong>
+</EndPoint>
+</Vehicle>

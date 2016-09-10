@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>11-E</VehicleName>
+<StartPoint>
+<StartPointName>Water Pump</StartPointName>
+<StartPointLat>24.933841</StartPointLat>
+<StartPointLong>66.956125</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Dockyard</EndPointName>
+<EndPointLat>24.841648</EndPointLat>
+<EndPointLong>66.976878</EndPointLong>
+</EndPoint>
+</Vehicle>

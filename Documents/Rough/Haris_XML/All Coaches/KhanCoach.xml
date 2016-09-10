@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Khan Coach</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Bhains Colony</BusStopName>
+<BusStopLat>24.828071</BusStopLat>
+<BusStopLong>67.278829</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>U.P Mour</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Golimar</BusStopName>
+<BusStopLat>24.886023</BusStopLat>
+<BusStopLong>67.0129</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mazar-e-Quaid</BusStopName>
+<BusStopLat>24.875397</BusStopLat>
+<BusStopLong>67.040967</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mai Kolachi Road</BusStopName>
+<BusStopLat>24.840099</BusStopLat>
+<BusStopLong>67.007346</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Clifton</BusStopName>
+<BusStopLat>24.824796</BusStopLat>
+<BusStopLong>67.031566</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Sea View</EndPointName>
+<EndPointLat>24.773131</EndPointLat>
+<EndPointLong>67.059729</EndPointLong>
+</EndPoint>
+
+</Vehicle>

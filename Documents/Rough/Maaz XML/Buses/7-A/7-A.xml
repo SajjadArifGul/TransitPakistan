@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>7-A</VehicleName>
+<StartPoint>
+<StartPointName>Liaquatabad Post Office</StartPointName>
+<StartPointLat>24.8507</StartPointLat>
+<StartPointLong>67.01267</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad</BusStopName>
+<BusStopLat>24.911098</BusStopLat>
+<BusStopLong>67.028587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden Road</BusStopName>
+<BusStopLat>24.857785</BusStopLat>
+<BusStopLong>67.028938</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+</Vehicle>

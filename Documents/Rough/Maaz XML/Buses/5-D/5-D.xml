@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>5-D</VehicleName>
+<StartPoint>
+<StartPointName>F.B Area</StartPointName>
+<StartPointLat>24.933287</StartPointLat>
+<StartPointLong>67.071628</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Exhibition</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Empress Market</BusStopName>
+<BusStopLat>24.864089</BusStopLat>
+<BusStopLong>67.027842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Dockyard</EndPointName>
+<EndPointLat>24.841648</EndPointLat>
+<EndPointLong>66.976878</EndPointLong>
+</EndPoint>
+
+</Vehicle>

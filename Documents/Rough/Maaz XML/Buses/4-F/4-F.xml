@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4-F</VehicleName>
+<StartPoint>
+<StartPointName>Sindhi Hotel</StartPointName>
+<StartPointLat>24.996667</StartPointLat>
+<StartPointLong>67.077635</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>New Karachi No 5</BusStopName>
+<BusStopLat>24.99708</BusStopLat>
+<BusStopLong>67.071271</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karimabad</BusStopName>
+<BusStopLat>24.9217</BusStopLat>
+<BusStopLong>67.05835</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jehangir Road</BusStopName>
+<BusStopLat>24.886507</BusStopLat>
+<BusStopLong>67.0415</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Exhibition</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Plaza</BusStopName>
+<BusStopLat>24.864436</BusStopLat>
+<BusStopLong>67.022819</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Regal</EndPointName>
+<EndPointLat>24.860531</EndPointLat>
+<EndPointLong>67.024136</EndPointLong>
+</EndPoint>
+
+</Vehicle>

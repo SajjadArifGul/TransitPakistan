@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Qayyum Coach</VehicleName>
+<StartPoint>
+<StartPointName>Sherpao Colony</StartPointName>
+<StartPointLat>24.835096</StartPointLat>
+<StartPointLong>67.208814</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mansehra Colony</BusStopName>
+<BusStopLat>24.856889</BusStopLat>
+<BusStopLong>67.197799</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Murtaza Chowrangi</BusStopName>
+<BusStopLat>24.851151</BusStopLat>
+<BusStopLong>67.181625</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Singer Chowrangi</BusStopName>
+<BusStopLat>24.846697</BusStopLat>
+<BusStopLong>67.159376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 5</BusStopName>
+<BusStopLat>24.883144</BusStopLat>
+<BusStopLong>67.161859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi Crossing</BusStopName>
+<BusStopLat>24.823403</BusStopLat>
+<BusStopLong>67.093206</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shaheed-e-Millat Road</BusStopName>
+<BusStopLat>24.882855</BusStopLat>
+<BusStopLong>67.059622</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baloch Colony</BusStopName>
+<BusStopLat>24.867255</BusStopLat>
+<BusStopLong>67.082744</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tariq Road</BusStopName>
+<BusStopLat>24.872736</BusStopLat>
+<BusStopLong>67.060441</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Purani Sabzi Mandi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>U.P Mour</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saleem Centre</BusStopName>
+<BusStopLat>24.853271</BusStopLat>
+<BusStopLong>67.005087</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Two Minutes Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Surjani Town</EndPointName>
+<EndPointLat>25.035399</EndPointLat>
+<EndPointLong>67.069055</EndPointLong>
+</EndPoint>
+
+</Vehicle>

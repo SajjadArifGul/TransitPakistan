@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4-S</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Two Minutes Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saleem Centre</BusStopName>
+<BusStopLat>24.853271</BusStopLat>
+<BusStopLong>67.005087</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>U.P Mour</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shadman Town</BusStopName>
+<BusStopLat>24.962397</BusStopLat>
+<BusStopLong>67.054055</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No 7</BusStopName>
+<BusStopLat>24.955073</BusStopLat>
+<BusStopLong>67.065432</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No. 6</BusStopName>
+<BusStopLat>24.915037</BusStopLat>
+<BusStopLong>67.031386</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela House</BusStopName>
+<BusStopLat>24.89031</BusStopLat>
+<BusStopLong>67.031297</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Eidgah</BusStopName>
+<BusStopLat>25.039316</BusStopLat>
+<BusStopLong>67.37669</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>50-B</VehicleName>
+<StartPoint>
+<StartPointName>Moach Goth</StartPointName>
+<StartPointLat>24.925383</StartPointLat>
+<StartPointLong>66.948991</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Haji Camp Road</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawranc Road</BusStopName>
+<BusStopLat>24.87465</BusStopLat>
+<BusStopLong>67.016431</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dalmia Cement Factory Road</BusStopName>
+<BusStopLat>24.90389</BusStopLat>
+<BusStopLong>67.102609</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Highway</BusStopName>
+<BusStopLat>24.855349</BusStopLat>
+<BusStopLong>67.212084</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kala Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Saudabad</EndPointName>
+<EndPointLat>24.889909</EndPointLat>
+<EndPointLong>67.192428</EndPointLong>
+</EndPoint>
+</Vehicle>

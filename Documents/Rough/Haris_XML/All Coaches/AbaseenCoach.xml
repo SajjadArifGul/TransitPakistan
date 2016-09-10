@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Abaseen Coach</VehicleName>
+<StartPoint>
+<StartPointName>Ittehad Town</StartPointName>
+<StartPointLat>24.975906</StartPointLat>
+<StartPointLong>66.945189</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Orangi No 11 A½</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chishti Nagar</BusStopName>
+<BusStopLat>24.964088</BusStopLat>
+<BusStopLong>66.97232</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Islam Chowk</BusStopName>
+<BusStopLat>24.955202</BusStopLat>
+<BusStopLong>66.99015</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 10</BusStopName>
+<BusStopLat>24.975246</BusStopLat>
+<BusStopLong>66.985126</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 4</BusStopName>
+<BusStopLat>24.939295</BusStopLat>
+<BusStopLong>66.995147</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metroville</BusStopName>
+<BusStopLat>24.908587</BusStopLat>
+<BusStopLong>66.995823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>S.I.T.E</BusStopName>
+<BusStopLat>24.894111</BusStopLat>
+<BusStopLong>66.992844</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika Mills</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Golimar</BusStopName>
+<BusStopLat>24.886023</BusStopLat>
+<BusStopLong>67.0129</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Plaza</BusStopName>
+<BusStopLat>24.864436</BusStopLat>
+<BusStopLong>67.022819</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Keamari</BusStopName>
+<BusStopLat>24.82269</BusStopLat>
+<BusStopLong>66.983908</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shirin Jinnah Colony</BusStopName>
+<BusStopLat>24.817658</BusStopLat>
+<BusStopLong>67.00634</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Clifton</EndPointName>
+<EndPointLat>24.824796</EndPointLat>
+<EndPointLong>67.031566</EndPointLong>
+</EndPoint>
+</Vehicle>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Niaz Coach</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>D Mor</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baradari</BusStopName>
+<BusStopLat>24.82519</BusStopLat>
+<BusStopLong>67.141597</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>U.P Mour</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No 7</BusStopName>
+<BusStopLat>24.955073</BusStopLat>
+<BusStopLong>67.065432</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth Market</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bolton Market</BusStopName>
+<BusStopLat>24.851644</BusStopLat>
+<BusStopLong>67.000663</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Labour Square</BusStopName>
+<BusStopLat>24.832409</BusStopLat>
+<BusStopLong>67.244565</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Metroville</EndPointName>
+<EndPointLat>24.908587</EndPointLat>
+<EndPointLong>66.995823</EndPointLong>
+</EndPoint>
+
+</Vehicle>

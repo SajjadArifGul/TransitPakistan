@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>17-K</VehicleName>
+<StartPoint>
+<StartPointName>Khadda Quaters</StartPointName>
+<StartPointLat>24.856368</StartPointLat>
+<StartPointLong>66.992565</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Hospital Chorangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Market No 6</BusStopName>
+<BusStopLat>24.880387</BusStopLat>
+<BusStopLong>67.161935</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gul Ahmed Textile Mills</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tasweer Mahal</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dhobi Ghat</BusStopName>
+<BusStopLat>24.878065</BusStopLat>
+<BusStopLong>67.012577</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mansehra Colony</BusStopName>
+<BusStopLat>24.856889</BusStopLat>
+<BusStopLong>67.197799</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 6</BusStopName>
+<BusStopLat>24.820252</BusStopLat>
+<BusStopLong>67.135961</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Murtaza Chowrangi</BusStopName>
+<BusStopLat>24.851151</BusStopLat>
+<BusStopLong>67.181625</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Society</BusStopName>
+<BusStopLat>24.839726</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Singer Chowrangi</BusStopName>
+<BusStopLat>24.846697</BusStopLat>
+<BusStopLong>67.159376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bilawal Chowrangi</BusStopName>
+<BusStopLat>24.919279</BusStopLat>
+<BusStopLong>67.133307</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Raja Ghazanfar Ali Road</BusStopName>
+<BusStopLat>24.856488</BusStopLat>
+<BusStopLong>67.030683</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Vita Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chamra Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Brookse Chowrangi</BusStopName>
+<BusStopLat>24.834538</BusStopLat>
+<BusStopLong>67.099871</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KPT Flyover Interchange</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Mor</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lucky Star</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Saddar</EndPointName>
+<EndPointLat>24.853185</EndPointLat>
+<EndPointLong>67.016673</EndPointLong>
+</EndPoint>
+</Vehicle>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>6</VehicleName>
+<StartPoint>
+<StartPointName>Azizabad</StartPointName>
+<StartPointLat>24.920743</StartPointLat>
+<StartPointLong>67.066566</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Azizabad</BusStopName>
+<BusStopLat>24.920743</BusStopLat>
+<BusStopLong>67.066566</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Street</BusStopName>
+<BusStopLat>24.849957</BusStopLat>
+<BusStopLong>67.035598</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Preedy Street</BusStopName>
+<BusStopLat>24.860695</BusStopLat>
+<BusStopLong>67.027404</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Burns Road</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+</Vehicle>

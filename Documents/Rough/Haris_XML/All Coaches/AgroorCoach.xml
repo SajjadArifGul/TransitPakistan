@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Agroor Coach</VehicleName>
+<StartPoint>
+<StartPointName>Maymar Town</StartPointName>
+<StartPointLat>25.006087</StartPointLat>
+<StartPointLong>67.118134</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Rashid Minhas Road</BusStopName>
+<BusStopLat>24.919097</BusStopLat>
+<BusStopLong>67.095842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Civic Centre</BusStopName>
+<BusStopLat>24.901118</BusStopLat>
+<BusStopLong>67.072711</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Purani Sabzi Mandi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Chowrangi</BusStopName>
+<BusStopLat>24.885244</BusStopLat>
+<BusStopLong>67.056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nishter Road</BusStopName>
+<BusStopLat>24.888391</BusStopLat>
+<BusStopLong>67.034313</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ramsawami</BusStopName>
+<BusStopLat>24.867761</BusStopLat>
+<BusStopLong>67.015928</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KMC Workshop</BusStopName>
+<BusStopLat>24.86369</BusStopLat>
+<BusStopLong>67.009691</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kharadar</BusStopName>
+<BusStopLat>24.85039</BusStopLat>
+<BusStopLong>66.995078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jamat Khana</BusStopName>
+<BusStopLat>24.869944</BusStopLat>
+<BusStopLong>66.988656</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mari Pur</BusStopName>
+<BusStopLat>24.86803</BusStopLat>
+<BusStopLong>66.918385</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Hawksbay</EndPointName>
+<EndPointLat>24.857499</EndPointLat>
+<EndPointLong>66.873853</EndPointLong>
+</EndPoint>
+
+</Vehicle>

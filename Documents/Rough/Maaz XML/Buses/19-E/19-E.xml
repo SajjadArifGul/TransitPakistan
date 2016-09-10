@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>19-E</VehicleName>
+<StartPoint>
+<StartPointName>Gizri</StartPointName>
+<StartPointLat>24.82112</StartPointLat>
+<StartPointLong>67.04348</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Dehli Colony</BusStopName>
+<BusStopLat>24.905429</BusStopLat>
+<BusStopLong>67.107874</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Clifton Bridge</BusStopName>
+<BusStopLat>24.840392</BusStopLat>
+<BusStopLong>67.032685</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kharadar</BusStopName>
+<BusStopLat>24.85039</BusStopLat>
+<BusStopLong>66.995078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Saeedabad</EndPointName>
+<EndPointLat>24.90935</EndPointLat>
+<EndPointLong>66.966038</EndPointLong>
+</EndPoint>
+
+</Vehicle>

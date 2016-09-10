@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4-D</VehicleName>
+<StartPoint>
+<StartPointName>KDA Office</StartPointName>
+<StartPointLat>24.8612</StartPointLat>
+<StartPointLong>67.08011</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Al-Hyderi</BusStopName>
+<BusStopLat>24.834168</BusStopLat>
+<BusStopLong>67.153886</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>State Bank Quarters</BusStopName>
+<BusStopLat>24.925582</BusStopLat>
+<BusStopLong>67.035361</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad</BusStopName>
+<BusStopLat>24.911098</BusStopLat>
+<BusStopLong>67.028587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela House</BusStopName>
+<BusStopLat>24.89031</BusStopLat>
+<BusStopLong>67.031297</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Empress Market</BusStopName>
+<BusStopLat>24.864089</BusStopLat>
+<BusStopLong>67.027842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

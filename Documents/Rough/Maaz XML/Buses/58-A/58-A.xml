@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>58-A</VehicleName>
+<StartPoint>
+<StartPointName>Lee Market</StartPointName>
+<StartPointLat>24.867994</StartPointLat>
+<StartPointLong>67.01739</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Dhobi Ghat</BusStopName>
+<BusStopLat>24.878065</BusStopLat>
+<BusStopLong>67.012577</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>S.I.T.E</BusStopName>
+<BusStopLat>24.894111</BusStopLat>
+<BusStopLong>66.992844</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Manghopir</EndPointName>
+<EndPointLat>24.946496</EndPointLat>
+<EndPointLong>67.021816</EndPointLong>
+</EndPoint>
+</Vehicle>

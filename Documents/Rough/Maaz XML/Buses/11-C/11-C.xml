@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>11-C</VehicleName>
+<StartPoint>
+<StartPointName>Azam Basti</StartPointName>
+<StartPointLat>24.847987</StartPointLat>
+<StartPointLong>67.075502</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Corporation</BusStopName>
+<BusStopLat>24.855537</BusStopLat>
+<BusStopLong>67.00769</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Parsi Colony</BusStopName>
+<BusStopLat>24.847465</BusStopLat>
+<BusStopLong>67.063587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>7th Day Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Islamia College</BusStopName>
+<BusStopLat>24.87974</BusStopLat>
+<BusStopLong>67.04618</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Chowrangi</BusStopName>
+<BusStopLat>24.885244</BusStopLat>
+<BusStopLong>67.056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>New Town Police Station</BusStopName>
+<BusStopLat>24.92894</BusStopLat>
+<BusStopLong>67.114351</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabzi Mandi</BusStopName>
+<BusStopLat>24.995757</BusStopLat>
+<BusStopLong>67.157524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Civic Centre</BusStopName>
+<BusStopLat>24.901118</BusStopLat>
+<BusStopLong>67.072711</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Urdu College</BusStopName>
+<BusStopLat>24.911557</BusStopLat>
+<BusStopLong>67.088598</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Safari Park</BusStopName>
+<BusStopLat>24.9225</BusStopLat>
+<BusStopLong>67.111389</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karachi University</BusStopName>
+<BusStopLat>24.939151</BusStopLat>
+<BusStopLong>67.113476</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Safoora Goth</EndPointName>
+<EndPointLat>24.939342</EndPointLat>
+<EndPointLong>67.156173</EndPointLong>
+</EndPoint>
+</Vehicle>

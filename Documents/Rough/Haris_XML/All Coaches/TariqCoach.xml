@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Tariq Coach</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Surjani Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>North Karachi</BusStopName>
+<BusStopLat>24.972871</BusStopLat>
+<BusStopLong>67.064331</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khawaj Ajmer Nagri</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Disco Mor</BusStopName>
+<BusStopLat>24.971781</BusStopLat>
+<BusStopLong>67.055998</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qalandari Chowk</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>K.D.A Office</BusStopName>
+<BusStopLat>24.942353</BusStopLat>
+<BusStopLong>67.034963</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ziauddin Hospital</BusStopName>
+<BusStopLat>24.816678</BusStopLat>
+<BusStopLong>67.0133</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karimabad</BusStopName>
+<BusStopLat>24.9217</BusStopLat>
+<BusStopLong>67.05835</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Exhibition</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Shahrah-e-Quaideen</EndPointName>
+<EndPointLat>24.866473</EndPointLat>
+<EndPointLong>67.053691</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>New Five Star Coach</VehicleName>
+<StartPoint>
+<StartPointName>Mohajir Camp</StartPointName>
+<StartPointLat>24.916325</StartPointLat>
+<StartPointLong>66.972367</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Faqeer Colony</BusStopName>
+<BusStopLat>24.928753</BusStopLat>
+<BusStopLong>66.984281</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metroville</BusStopName>
+<BusStopLat>24.908587</BusStopLat>
+<BusStopLong>66.995823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad</BusStopName>
+<BusStopLat>24.911098</BusStopLat>
+<BusStopLong>67.028587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabzi Mandi</BusStopName>
+<BusStopLat>24.995757</BusStopLat>
+<BusStopLong>67.157524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Alamgir Road</BusStopName>
+<BusStopLat>24.882941</BusStopLat>
+<BusStopLong>67.066112</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bahadurabad</BusStopName>
+<BusStopLat>24.882452</BusStopLat>
+<BusStopLong>67.069389</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tariq Road</BusStopName>
+<BusStopLat>24.872736</BusStopLat>
+<BusStopLong>67.060441</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gora Qabrastan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bhitai Colony</BusStopName>
+<BusStopLat>24.810914</BusStopLat>
+<BusStopLong>67.110504</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Ibrahim Hyderi</EndPointName>
+<EndPointLat>24.793289</EndPointLat>
+<EndPointLong>67.140293</EndPointLong>
+</EndPoint>
+</Vehicle>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Mahfooz Coach</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Salim Centre</BusStopName>
+<BusStopLat>24.853271</BusStopLat>
+<BusStopLong>67.005087</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad</BusStopName>
+<BusStopLat>24.911098</BusStopLat>
+<BusStopLong>67.028587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Golimar</BusStopName>
+<BusStopLat>24.886023</BusStopLat>
+<BusStopLong>67.0129</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ranchore Line</BusStopName>
+<BusStopLat>24.858693</BusStopLat>
+<BusStopLong>67.006153</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KMC Workshop</BusStopName>
+<BusStopLat>24.86369</BusStopLat>
+<BusStopLong>67.009691</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hatim Alvi Road</BusStopName>
+<BusStopLat>24.814655</BusStopLat>
+<BusStopLong>67.031338</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>26th Street</BusStopName>
+<BusStopLat>24.785549</BusStopLat>
+<BusStopLong>67.065335</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah Shah Ghazi</BusStopName>
+<BusStopLat>24.881005</BusStopLat>
+<BusStopLong>67.203483</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khayaban-e-Shanshee</BusStopName>
+<BusStopLat>24.812595</BusStopLat>
+<BusStopLong>67.047208</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Sea View</EndPointName>
+<EndPointLat>24.773131</EndPointLat>
+<EndPointLong>67.059729</EndPointLong>
+</EndPoint>
+
+</Vehicle>

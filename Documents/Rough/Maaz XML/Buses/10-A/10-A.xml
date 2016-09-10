@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>10-A</VehicleName>
+<StartPoint>
+<StartPointName>Lal Kothi</StartPointName>
+<StartPointLat>24.861192</StartPointLat>
+<StartPointLong>67.069516</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Millat</BusStopName>
+<BusStopLat>24.886899</BusStopLat>
+<BusStopLong>67.12636</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khalid Bin Waleed Road</BusStopName>
+<BusStopLat>25.017487</BusStopLat>
+<BusStopLong>67.136113</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>PECHS</BusStopName>
+<BusStopLat>24.868804</BusStopLat>
+<BusStopLong>67.061353</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Society</BusStopName>
+<BusStopLat>24.89834</BusStopLat>
+<BusStopLong>67.086579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khudadad Colony</BusStopName>
+<BusStopLat>24.872753</BusStopLat>
+<BusStopLong>67.046524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Street</BusStopName>
+<BusStopLat>24.849957</BusStopLat>
+<BusStopLong>67.035598</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Preedy Street</BusStopName>
+<BusStopLat>24.860695</BusStopLat>
+<BusStopLong>67.027404</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+</Vehicle>

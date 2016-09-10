@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>1-H</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Bahar</StartPointName>
+<StartPointLat>24.976908</StartPointLat>
+<StartPointLong>66.994333</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Orangi Sector No. 14</BusStopName>
+<BusStopLat>24.941364</BusStopLat>
+<BusStopLong>67.00271</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi Sector No. 13</BusStopName>
+<BusStopLat>24.951242</BusStopLat>
+<BusStopLong>67.004784</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi Sector No. 7</BusStopName>
+<BusStopLat>24.975314</BusStopLat>
+<BusStopLong>66.985921</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi Sector No. 5</BusStopName>
+<BusStopLat>24.938361</BusStopLat>
+<BusStopLong>67.002524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qadafi Chowk</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qasba Mor</BusStopName>
+<BusStopLat>24.964948</BusStopLat>
+<BusStopLong>67.057388</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras Colony</BusStopName>
+<BusStopLat>24.928098</BusStopLat>
+<BusStopLong>66.979704</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika Mills</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>S.I.T.E</BusStopName>
+<BusStopLat>24.894111</BusStopLat>
+<BusStopLong>66.992844</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Post Office</BusStopName>
+<BusStopLat>24.935695</BusStopLat>
+<BusStopLong>67.001454</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Maroon Mill</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Laltain Factory</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ghani Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mira Naka</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chakiwara</BusStopName>
+<BusStopLat>24.867666</BusStopLat>
+<BusStopLong>66.998056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kharadar</BusStopName>
+<BusStopLat>24.85039</BusStopLat>
+<BusStopLong>66.995078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jamat Khana</BusStopName>
+<BusStopLat>24.869944</BusStopLat>
+<BusStopLong>66.988656</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>17-J</VehicleName>
+<StartPoint>
+<StartPointName>Babar Market</StartPointName>
+<StartPointLat>24.883184</StartPointLat>
+<StartPointLong>67.033588</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Landhi No. 3 A½</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 5</BusStopName>
+<BusStopLat>24.829848</BusStopLat>
+<BusStopLong>67.227512</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 6</BusStopName>
+<BusStopLat>24.820252</BusStopLat>
+<BusStopLong>67.135961</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 5</BusStopName>
+<BusStopLat>24.883144</BusStopLat>
+<BusStopLong>67.161859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 3</BusStopName>
+<BusStopLat>24.846946</BusStopLat>
+<BusStopLong>67.143106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 1</BusStopName>
+<BusStopLat>24.841243</BusStopLat>
+<BusStopLong>67.155245</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi Crossing</BusStopName>
+<BusStopLat>24.823403</BusStopLat>
+<BusStopLong>67.093206</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Mor</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Luck Star Hotel</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Hijaz Dairy Farm</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+</Vehicle>

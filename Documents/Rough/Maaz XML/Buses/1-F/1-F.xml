@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>1-F</VehicleName>
+<StartPoint>
+<StartPointName>Naval Colony</StartPointName>
+<StartPointLat>24.945319</StartPointLat>
+<StartPointLong>66.937743</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Mari Pur</BusStopName>
+<BusStopLat>24.86803</BusStopLat>
+<BusStopLong>66.918385</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai Chowk</BusStopName>
+<BusStopLat>24.882713</BusStopLat>
+<BusStopLong>67.03104</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Juna Market</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ramsawami</BusStopName>
+<BusStopLat>24.867761</BusStopLat>
+<BusStopLong>67.015928</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden Bara Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika</BusStopName>
+<BusStopLat>24.908913</BusStopLat>
+<BusStopLong>67.000475</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Orangi Township No. 10</EndPointName>
+<EndPointLat>24.975246</EndPointLat>
+<EndPointLong>66.985126</EndPointLong>
+</EndPoint>
+
+</Vehicle>

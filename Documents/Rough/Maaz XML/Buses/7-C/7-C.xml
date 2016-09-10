@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>7-C</VehicleName>
+<StartPoint>
+<StartPointName>Dockyard</StartPointName>
+<StartPointLat>24.841648</StartPointLat>
+<StartPointLong>66.976878</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chakiwara</BusStopName>
+<BusStopLat>24.867666</BusStopLat>
+<BusStopLong>66.998056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mira Naka</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Taj Silk Mill</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Muslim League Quarters</BusStopName>
+<BusStopLat>24.884678</BusStopLat>
+<BusStopLong>67.088953</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad Post Office</BusStopName>
+<BusStopLat>24.8507</BusStopLat>
+<BusStopLong>67.01267</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karimabad</BusStopName>
+<BusStopLat>24.9217</BusStopLat>
+<BusStopLong>67.05835</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Imam Bara</BusStopName>
+<BusStopLat>24.859007</BusStopLat>
+<BusStopLong>67.030297</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hussaini Sajjadia</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saifee Technology College</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Buffer Zone</EndPointName>
+<EndPointLat>24.958198</EndPointLat>
+<EndPointLong>67.0688</EndPointLong>
+</EndPoint>
+
+</Vehicle>

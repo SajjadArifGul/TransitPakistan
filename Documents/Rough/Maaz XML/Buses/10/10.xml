@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>10</VehicleName>
+<StartPoint>
+<StartPointName>Nursery</StartPointName>
+<StartPointLat>24.860307</StartPointLat>
+<StartPointLong>67.06198</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>PECHS</BusStopName>
+<BusStopLat>24.868804</BusStopLat>
+<BusStopLong>67.061353</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Society</BusStopName>
+<BusStopLat>24.89834</BusStopLat>
+<BusStopLong>67.086579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jamshed Road</BusStopName>
+<BusStopLat>24.883208</BusStopLat>
+<BusStopLong>67.046708</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>New Town</BusStopName>
+<BusStopLat>25.056136</BusStopLat>
+<BusStopLong>67.158544</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Exhibition</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Plaza</BusStopName>
+<BusStopLat>24.864436</BusStopLat>
+<BusStopLong>67.022819</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saeed Manzil</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bolton Market</BusStopName>
+<BusStopLat>24.851644</BusStopLat>
+<BusStopLong>67.000663</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+</Vehicle>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>5-E</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Kala School</BusStopName>
+<BusStopLat>25.000026</BusStopLat>
+<BusStopLong>67.069472</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>U.P Mour</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Power House</BusStopName>
+<BusStopLat>24.986827</BusStopLat>
+<BusStopLong>67.065875</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karimabad</BusStopName>
+<BusStopLat>24.9217</BusStopLat>
+<BusStopLong>67.05835</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad Post Office</BusStopName>
+<BusStopLat>24.8507</BusStopLat>
+<BusStopLong>67.01267</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>P.I.B Colony</EndPointName>
+<EndPointLat>24.894681</EndPointLat>
+<EndPointLong>67.056885</EndPointLong>
+</EndPoint>
+
+</Vehicle>

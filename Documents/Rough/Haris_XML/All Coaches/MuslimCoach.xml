@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Muslim Coach</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Hadeed</StartPointName>
+<StartPointLat>24.869999</StartPointLat>
+<StartPointLong>67.354256</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Pipri</BusStopName>
+<BusStopLat>24.847733</BusStopLat>
+<BusStopLong>67.393544</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Halt</BusStopName>
+<BusStopLat>24.88478</BusStopLat>
+<BusStopLong>67.175375</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gora Qabrastan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Askari Apartment</BusStopName>
+<BusStopLat>24.846393</BusStopLat>
+<BusStopLong>67.040688</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Hall</BusStopName>
+<BusStopLat>24.84732</BusStopLat>
+<BusStopLong>67.03273</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>I.I Chundrigar Road</BusStopName>
+<BusStopLat>24.849801</BusStopLat>
+<BusStopLong>67.008065</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Keamari</BusStopName>
+<BusStopLat>24.82269</BusStopLat>
+<BusStopLong>66.983908</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shirin Jinnah Colony</BusStopName>
+<BusStopLat>24.817658</BusStopLat>
+<BusStopLong>67.00634</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Clifton</EndPointName>
+<EndPointLat>24.824796</EndPointLat>
+<EndPointLong>67.031566</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Nasir Coach</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Kala School</BusStopName>
+<BusStopLat>25.000026</BusStopLat>
+<BusStopLong>67.069472</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>UP Society</BusStopName>
+<BusStopLat>24.972278</BusStopLat>
+<BusStopLong>67.067287</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karimabad</BusStopName>
+<BusStopLat>24.9217</BusStopLat>
+<BusStopLong>67.05835</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Quaideen</BusStopName>
+<BusStopLat>24.866473</BusStopLat>
+<BusStopLong>67.053691</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>FTC</BusStopName>
+<BusStopLat>24.859191</BusStopLat>
+<BusStopLong>67.052575</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Askari Apartment</BusStopName>
+<BusStopLat>24.846393</BusStopLat>
+<BusStopLong>67.040688</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chaudry Khaliq-u-Zaman Road</BusStopName>
+<BusStopLat>24.834981</BusStopLat>
+<BusStopLong>67.037457</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Gizri</EndPointName>
+<EndPointLat>24.82112</EndPointLat>
+<EndPointLong>67.04348</EndPointLong>
+</EndPoint>
+
+</Vehicle>

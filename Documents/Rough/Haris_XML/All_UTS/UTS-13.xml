@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>UTS Bus</VehicleType>
+<VehicleName>UTS-13</VehicleName>
+<StartPoint>
+<StartPointName>Khokrapar</StartPointName>
+<StartPointLat>24.903643</StartPointLat>
+<StartPointLong>67.212538</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Saudabad</BusStopName>
+<BusStopLat>24.889909</BusStopLat>
+<BusStopLong>67.192428</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquat Market</BusStopName>
+<BusStopLat>24.896067</BusStopLat>
+<BusStopLong>67.19688</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Square</BusStopName>
+<BusStopLat>24.890842</BusStopLat>
+<BusStopLong>67.197821</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir City</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kala Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Airport</BusStopName>
+<BusStopLat>24.895337</BusStopLat>
+<BusStopLong>67.163009</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Natha Khan Goth</BusStopName>
+<BusStopLat>24.882791</BusStopLat>
+<BusStopLong>67.13508</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Rashid Minhas Road</BusStopName>
+<BusStopLat>24.919097</BusStopLat>
+<BusStopLong>67.095842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Millenium Mall</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulshan-e-Iqbal Chowrangi</BusStopName>
+<BusStopLat>24.885276</BusStopLat>
+<BusStopLong>67.056612</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baradari</BusStopName>
+<BusStopLat>24.82519</BusStopLat>
+<BusStopLong>67.141597</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Surjani Town</EndPointName>
+<EndPointLat>25.035399</EndPointLat>
+<EndPointLong>67.069055</EndPointLong>
+</EndPoint>
+</Vehicle>

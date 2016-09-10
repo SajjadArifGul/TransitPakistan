@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+			<title>Transit Pakistan API</title>
+			<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+			<meta name="viewport" content="width=device-width, initial-scale=1"/>
+			<meta name="keywords" content=""/>
+			<meta name="description" content=""/>
+			<link rel="stylesheet" href="http://transit.pk/css/bootstrap.min.css"/>
+			<link rel="stylesheet" href="http://transit.pk/css/animate.min.css"/>
+			<link rel="stylesheet" href="http://transit.pk/css/font-awesome.min.css"/>
+			<link rel="stylesheet" href="http://transit.pk/css/et-line-font.css"/>
+			<link rel="stylesheet" href="http://transit.pk/css/style.css"/>
+			<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700' rel='stylesheet' type='text/css'/>
+		</head>
+		<body data-spy="scroll" data-target=".navbar-collapse" data-offset="50">
+			<div class="preloader">
+				<div class="sk-spinner sk-spinner-circle">
+					<div class="sk-circle1 sk-circle"></div>
+					<div class="sk-circle2 sk-circle"></div>
+					<div class="sk-circle3 sk-circle"></div>
+					<div class="sk-circle4 sk-circle"></div>
+					<div class="sk-circle5 sk-circle"></div>
+					<div class="sk-circle6 sk-circle"></div>
+					<div class="sk-circle7 sk-circle"></div>
+					<div class="sk-circle8 sk-circle"></div>
+					<div class="sk-circle9 sk-circle"></div>
+					<div class="sk-circle10 sk-circle"></div>
+					<div class="sk-circle11 sk-circle"></div>
+					<div class="sk-circle12 sk-circle"></div>
+				</div>
+			</div>
+			<div class="navbar navbar-default navbar-fixed-top sticky-navigation" role="navigation">
+				<div class="container">
+					<div class="navbar-header">
+						<button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="icon icon-bar"></span>
+							<span class="icon icon-bar"></span>
+							<span class="icon icon-bar"></span>
+						</button>
+						<a href="http://transit.pk" class="navbar-brand">Transit.</a>
+					</div>
+					<div class="collapse navbar-collapse">
+						<ul class="nav navbar-nav navbar-right main-navigation">
+							<li>
+								<a href="http://transit.pk/" class="smoothScroll">HOME</a>
+							</li>
+							<li>
+								<a href="http://transit.pk#features" class="smoothScroll">FEATURES</a>
+							</li>
+							<li>
+								<a href="http://transit.pk#team-members" class="smoothScroll">TEAM MEMBERS</a>
+							</li>
+							<li>
+								<a href="#" class="smoothScroll">API</a>
+							</li>
+							<li>
+								<a href="http://transit.pk#contact">CONTACT US</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<section id="home">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 col-sm-12">
+							<h3 class="wow bounceIn">Transit Pakistan API</h3>
+							<h2>
+								<span class="bold">Better Apps with Transit Pakistan API.</span>
+							</h2>
+							<br />
+							<h4>api.transit.pk</h4>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section id="api"></section>
+			<section id="contact">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 col-sm-12 text-center">
+							<div class="section-title">
+								<h1 class="heading bold">Intro to Transit Pakistan API</h1>
+								<hr/>
+							</div>
+						</div>
+						<div style="text-align: justify;" class="col-md-12 col-sm-12">
+							<p>You can communicate with Transit Pakistan using it's XML based API. Transit Pakistan will provide some response containing suggestions about locations, routes and vehicles. Currently our API is under development so we will only provide coverage to selected routes in Karachi city. Below we will describe how you can communicate with Transit Paistan API.</p>
+							<br />
+							<p>
+								Transit Pakistan API is divided into three parts.
+								<ol>
+									<li>Locations Data</li>
+									<li>Routes Data</li>
+									<li>Vehicles Data</li>
+									<li>SMS Service</li>
+								</ol>
+
+								Following are the details of these parts and how to communicate with them.
+							</p>
+							<h2>1. Locations Data</h2>
+							<p>
+								This part of our API will allow you to access the names of locations that are currently in our coverage. The following snippet shows you how to invoke locations api parts.
+								<hr />
+									<pre>Post: http://api.transit.pk/CITY/locations/</pre>
+									<pre>Headers: Content-Type: application/XML</pre>
+									<pre>Response: [Sample Response from http://api.transit.pk/karachi/locations/]
+										<br />&lt;Locations&gt;<br />&lt;LocationName&gt;7th Day Hospital, Karachi&lt;/LocationName&gt;<br />&lt;LocationName&gt;Abdullah College, Karachi&lt;/LocationName&gt;<br />&lt;LocationName&gt;Agha Khan Jamat Khana, Karachi&lt;/LocationName&gt;<br />.<br />.<br />.<br />&lt;/Locations&gt;</pre>
+								<pre>* - CITY has to be replaced by the city for which you want locations which are covered by Transit Pakistan in that city.</pre>
+								<hr />
+								<p>As of May 2016, Transit Pakistan only provides coverage in Karachi, Pakistan. So the CITY attribute in your post will be 'karachi' in small alphabets because it is case sensitive. In the above response each new location is wrapped inside &lt;LocationName&gt; attribute. All &lt;LocationName&gt; attributes are then merged under &lt;Locations&gt; attribute which act as a document root.</p>
+							</p>
+
+							<h2>2. Routes Data</h2>
+							<p>
+								This part of our API will allow you to access the route data on the given set of Start Location and Destination that are currently in our coverage. The following snippet shows you how to invoke routes api parts.
+								<hr />
+									<pre>Post: http://api.transit.pk/CITY/routes/STARTPOINTNAME/ENDPOINTNAME/</pre>
+									<pre>Headers: Content-Type: application/XML</pre>
+									<pre>Response: [Sample Response from http://api.transit.pk/karachi/routes/TowerKarachi/SadarKarachi/]
+										<br />&lt;Route&gt;<br />&lt;Vehicle&gt;<br />&lt;VehicleType&gt;Bus&lt;/VehicleType&gt;<br />&lt;VehicleName&gt;4-K&lt;/VehicleName&gt;<br />&lt;StopFair&gt;15&lt;/StopFair&gt;<br />&lt;StartPoint&gt;<br />&lt;StartPointName&gt;Tower, Karachi&lt;/StartPointName&gt;<br />&lt;StartPointLat&gt;24.876961&lt;/StartPointLat&gt;<br />&lt;StartPointLong&gt;67.059828&lt;/StartPointLong&gt;<br />&lt;/StartPoint&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Bunder Road, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.860787&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.017802&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Tibet Centre, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.861462&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.009939&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Regal, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.860531&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.024136&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Empress Market, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.864089&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.027842&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;EndPoint&gt;<br />&lt;EndPointName&gt;Sadar, Karachi&lt;/EndPointName&gt;<br />&lt;EndPointLat&gt;24.851794&lt;/EndPointLat&gt;<br />&lt;EndPointLong&gt;67.024252&lt;/EndPointLong&gt;<br />&lt;/EndPoint&gt;<br />&lt;/Vehicle&gt;<br />.<br />.<br />.<br />&lt;/Route&gt;</pre>
+								<pre>* - CITY has to be replaced by the city for which you want routes which are covered by Transit Pakistan in that city.<br />* - STARTPOINTNAME has to be replaced by name of location from where the route has to be started.<br />* - ENDPOINTNAME has to be replaced by name of location where the route has to be ended.</pre>
+								<hr />
+								<p>As of May 2016, Transit Pakistan only provides coverage to selective <span style="border-style: dotted; border-color:#123456">12,000</span> routes in Karachi, Pakistan. Location names are case sensitive so you must write the correct name. For a full list of names of location refer to part 1 - Locations data. In the above response each new vehicle is wrapped inside &lt;Vehicle&gt; attribute. Each &lt;Vehicle&gt; attribute has its own set of attribute that can be interpreted to get more information about that particular vehicle on this route. All &lt;Vehicle&gt; attributes are then merged under &lt;Route&gt; attribute which act as a document root.</p>
+							</p>
+
+							<h2>3. Vehicles Data</h2>
+							<p>
+								This part of our API will allow you to access the vehicles data that are currently in our coverage. The following snippet shows you how to invoke vehicles api parts. <span style="border-style: dotted; border-color:#123456">This part of the API is currently unstable and should not be used in production.</span>
+								<hr />
+									<pre>Post: http://api.transit.pk/CITY/vehicles/NAMEOFVEHICLE/NAMEOFVEHICLE.xml</pre>
+									<pre>Headers: Content-Type: application/XML</pre>
+									<pre>Response: [Sample Response from http://api.transit.pk/karachi/vehicles/52-A/52-A.xml]
+										<br />&lt;Vehicle&gt;<br />&lt;VehicleType&gt;Bus&lt;/VehicleType&gt;<br />&lt;VehicleName&gt;52-A&lt;/VehicleName&gt;<br />&lt;RouteFair&gt;20&lt;/RouteFair&gt;<br />&lt;StopFair&gt;15&lt;/StopFair&gt;<br />&lt;StartPoint&gt;<br />&lt;StartPointName&gt;Labour Square, Karachi&lt;/StartPointName&gt;<br />&lt;StartPointLat&gt;24.832409&lt;/StartPointLat&gt;<br />&lt;StartPointLong&gt;67.244565&lt;/StartPointLong&gt;<br />&lt;/StartPoint&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Gul Mohammad Chowrangi, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.861462&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.009939&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Metropolitan Steel Corporation, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.861462&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.009939&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Qazafi Town, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.850204&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.223031&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Quaidabad, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.858407&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.211702&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Landhi, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.839878&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.191098&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Malir City, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.902885&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.197579&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Drigh Road, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.884633&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.129122&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Jail Road, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.887120&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.053007&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Nishter Road, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.888391&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.034313&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Lee Market, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.867994&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.017390&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Agha Khan Jamat Khana, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.861462&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.009939&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;G. Allana Road, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.853801&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;66.989965&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Khaja Jamat khana, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.861462&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;67.009939&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;BusStop&gt;<br />&lt;BusStopName&gt;Dockyard, Karachi&lt;/BusStopName&gt;<br />&lt;BusStopLat&gt;24.841648&lt;/BusStopLat&gt;<br />&lt;BusStopLong&gt;66.976878&lt;/BusStopLong&gt;<br />&lt;/BusStop&gt;<br />&lt;EndPoint&gt;<br />&lt;EndPointName&gt;Fisheries, Karachi&lt;/EndPointName&gt;<br />&lt;EndPointLat&gt;24.861462&lt;/EndPointLat&gt;<br />&lt;EndPointLong&gt;67.009939&lt;/EndPointLong&gt;<br />&lt;/EndPoint&gt;<br />&lt;/Vehicle&gt;</pre>
+								<pre>* - CITY has to be replaced by the city for which you want routes which are covered by Transit Pakistan in that city.<br />* - NAMEOFVEHICLE has to be replaced by name of vehicle for which data is required.</pre>
+								<hr />
+								<p>As of May 2016, Transit Pakistan only provides coverage to selective <span style="border-style: dotted; border-color:#123456">112+</span> contracts of vehicles in Karachi, Pakistan. In the above response vehicle data is wrapped inside &lt;Vehicle&gt; attribute. Each &lt;Vehicle&gt; attribute has its own set of attribute that can be interpreted to get more information about that particular vehicle.</p>
+							</p>
+
+							<h2>4. SMS Service</h2>
+							<p>
+								This part of our API will allow you to access the same data via SMS service that you can access via our online API. The following snippet shows you how to invoke SMS api parts. <span style="border-style: dotted; border-color:#123456">This part of API only supports route data.</span>
+								<hr />
+									<pre>Format: City: CITY From: STARTINGPOINTNAME To: ENDINGPOINTNAME</pre>
+									<pre>Response: [Sample Response of City: Karachi From: Sadar To: Tower]
+										<br />Following vehicles will take you from Sadar to Tower<br />4-K - 15 Rs<br />4-L - 15 Rs<br />5-C - 15 Rs<br />6 - 15 Rs<br />6-B - 15 Rs<br />UTS-12 - 15 Rs<br />B-5 - 15 Rs<br />
+									</pre>
+								<pre>* - CITY has to be replaced by the city for which you want routes which are covered by Transit Pakistan in that city.<br />* - STARTINGPOINTNAME has to be replaced by name of Starting Point for which data is required.<br />* - ENDINGPOINTNAME has to be replaced by the Destination name to where you want to go.</pre>
+								<hr />
+								<p>As of May 2016, Transit Pakistan only provides coverage to selective <span style="border-style: dotted; border-color:#123456">15000+</span> routes combinations in Karachi, Pakistan.</p>
+							</p>
+
+						</div>
+						<div id="footer" class="col-md-12 col-sm-12 contact-address">
+							<div class="col-md-4 col-sm-6 contact-email">
+								<h3>
+									<i class="icon-envelope medium-icon wow bounceIn" data-wow-delay="0.1s"></i> EMAIL US
+									
+								
+								</h3>
+								<p>contact@transit.pk</p>
+							</div>
+							<div class="col-md-4 col-sm-6 contact-phone">
+								<h3>
+									<i class="icon-phone medium-icon wow bounceIn" data-wow-delay="0.3s"></i> CALL PHONE
+									
+								
+								</h3>
+								<p>+92 332 0307817</p>
+							</div>
+							<div class="col-md-4 col-sm-12 contact-website">
+								<h3>
+									<i class="icon-map medium-icon wow bounceIn" data-wow-delay="0.9s"></i> WEBSITE
+									
+								
+								</h3>
+								<p>www.transit.pk</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<footer>
+				<div class="container">
+					<div class="row">
+						<section id="contact-us"></section>
+						<div class="col-md-12 col-sm-12">
+							<ul class="social-icon">
+								<li>
+									<a href="https://www.facebook.com/founderofWSC" class="fa fa-facebook wow fadeIn" data-wow-delay="0.3s"></a>
+								</li>
+								<li>
+									<a href="https://www.twitter.com/SajjadArifGul" class="fa fa-twitter wow fadeIn" data-wow-delay="0.6s"></a>
+								</li>
+								<li>
+									<a href="https://plus.google.com/+SajjadGull/" class="fa fa-google wow fadeIn" data-wow-delay="0.9s"></a>
+								</li>
+							</ul>
+							<hr/>
+							<p class="wow bounceIn" data-wow-delay="1.3s">Transit Pakistan | All right Reserved.</p>
+						</div>
+					</div>
+				</div>
+			</footer>
+			<script src="http://transit.pk/js/jquery.js"></script>
+			<script src="http://transit.pk/js/bootstrap.min.js"></script>
+			<script src="http://transit.pk/js/jquery.nav.js"></script>
+			<script src="http://transit.pk/js/wow.min.js"></script>
+			<script src="http://transit.pk/js/custom.js"></script>
+			<script src="http://transit.pk/js/webapi.js"></script>
+		</body>
+	</html>

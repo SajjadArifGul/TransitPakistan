@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Gulistan Coach</VehicleName>
+<StartPoint>
+<StartPointName>Pahalwan Goth</StartPointName>
+<StartPointLat>24.908958</StartPointLat>
+<StartPointLong>67.141038</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gulistan-e-Jouhar</BusStopName>
+<BusStopLat>24.926295</BusStopLat>
+<BusStopLong>67.130499</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jauhar Square</BusStopName>
+<BusStopLat>24.910376</BusStopLat>
+<BusStopLong>67.125456</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Rashid Minhas Road</BusStopName>
+<BusStopLat>24.919097</BusStopLat>
+<BusStopLong>67.095842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Purani Sabzi Mandi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>New Town</BusStopName>
+<BusStopLat>25.056136</BusStopLat>
+<BusStopLong>67.158544</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Chowrangi</BusStopName>
+<BusStopLat>24.885244</BusStopLat>
+<BusStopLong>67.056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Islamia College</BusStopName>
+<BusStopLat>24.87974</BusStopLat>
+<BusStopLong>67.04618</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mazar-e-Quaid</BusStopName>
+<BusStopLat>24.875397</BusStopLat>
+<BusStopLong>67.040967</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Plaza</BusStopName>
+<BusStopLat>24.864436</BusStopLat>
+<BusStopLong>67.022819</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth Market</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mai Kolachi Road</BusStopName>
+<BusStopLat>24.840099</BusStopLat>
+<BusStopLong>67.007346</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Boat Basin</BusStopName>
+<BusStopLat>24.821231</BusStopLat>
+<BusStopLong>67.018162</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kharkar Chowrangi</BusStopName>
+<BusStopLat>24.81557</BusStopLat>
+<BusStopLong>67.020489</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bilawal House</BusStopName>
+<BusStopLat>24.920176</BusStopLat>
+<BusStopLong>67.105164</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Samandar Kinara</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah Shah Ghazi Road</BusStopName>
+<BusStopLat>24.908532</BusStopLat>
+<BusStopLong>67.193647</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>26 Street</BusStopName>
+<BusStopLat>24.785549</BusStopLat>
+<BusStopLong>67.065335</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saudi Embassy</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sultan Masjid</BusStopName>
+<BusStopLat>24.810789</BusStopLat>
+<BusStopLong>67.058095</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi Road</BusStopName>
+<BusStopLat>24.814844</BusStopLat>
+<BusStopLong>67.111745</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Qayyumabad</EndPointName>
+<EndPointLat>24.825724</EndPointLat>
+<EndPointLong>67.080715</EndPointLong>
+</EndPoint>
+
+</Vehicle>

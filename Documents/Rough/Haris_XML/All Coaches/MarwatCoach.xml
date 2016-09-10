@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Marwat Coach</VehicleName>
+<StartPoint>
+<StartPointName>Labour Square</StartPointName>
+<StartPointLat>24.832409</StartPointLat>
+<StartPointLong>67.244565</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>PMTF Colony</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>SESSI Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi Industrial Area</BusStopName>
+<BusStopLat>24.844783</BusStopLat>
+<BusStopLong>67.243076</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir No 15</BusStopName>
+<BusStopLat>24.885303</BusStopLat>
+<BusStopLong>67.184189</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Star Gate</BusStopName>
+<BusStopLat>24.887124</BusStopLat>
+<BusStopLong>67.155791</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Quaideen</BusStopName>
+<BusStopLat>24.866473</BusStopLat>
+<BusStopLong>67.053691</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>G.Allana Road</BusStopName>
+<BusStopLat>24.853801</BusStopLat>
+<BusStopLong>66.989965</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Machi Goth</BusStopName>
+<BusStopLat>24.911696</BusStopLat>
+<BusStopLong>67.017696</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Naval Colony</EndPointName>
+<EndPointLat>24.945319</EndPointLat>
+<EndPointLong>66.937743</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Al-Qadri Coach</VehicleName>
+<StartPoint>
+<StartPointName>Khokrapar</StartPointName>
+<StartPointLat>24.903643</StartPointLat>
+<StartPointLong>67.212538</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Cement Factory</BusStopName>
+<BusStopLat>24.90389</BusStopLat>
+<BusStopLong>67.102609</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Stadium</BusStopName>
+<BusStopLat>24.89421</BusStopLat>
+<BusStopLong>67.088063</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquat Hospital</BusStopName>
+<BusStopLat>24.892509</BusStopLat>
+<BusStopLong>67.068893</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawranc Road</BusStopName>
+<BusStopLat>24.87465</BusStopLat>
+<BusStopLong>67.016431</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ranchore Line</BusStopName>
+<BusStopLat>24.858693</BusStopLat>
+<BusStopLong>67.006153</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kharadar</BusStopName>
+<BusStopLat>24.85039</BusStopLat>
+<BusStopLong>66.995078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jamat Khana</BusStopName>
+<BusStopLat>24.869944</BusStopLat>
+<BusStopLong>66.988656</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mauripur</BusStopName>
+<BusStopLat>24.86803</BusStopLat>
+<BusStopLong>66.918385</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Naval Colony</BusStopName>
+<BusStopLat>24.945319</BusStopLat>
+<BusStopLong>66.937743</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Hawksbay</EndPointName>
+<EndPointLat>24.857499</EndPointLat>
+<EndPointLong>66.873853</EndPointLong>
+</EndPoint>
+</Vehicle>

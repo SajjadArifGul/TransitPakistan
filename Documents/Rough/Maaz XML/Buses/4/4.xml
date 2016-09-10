@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4</VehicleName>
+<StartPoint>
+<StartPointName>Bus Stop No.6</StartPointName>
+<StartPointLat>24.915037</StartPointLat>
+<StartPointLong>67.031386</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Main Road Between Block 11-F and 11-C</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KDA Office</BusStopName>
+<BusStopLat>24.8612</BusStopLat>
+<BusStopLong>67.08011</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Al- Hyderi State Bank</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>QTRS</BusStopName>
+<BusStopLat>24.881547</BusStopLat>
+<BusStopLong>67.024329</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad Chowrangi 2</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Golimar</BusStopName>
+<BusStopLat>24.886023</BusStopLat>
+<BusStopLong>67.0129</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawranc Road</BusStopName>
+<BusStopLat>24.87465</BusStopLat>
+<BusStopLong>67.016431</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Juna Market</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Napier Road</BusStopName>
+<BusStopLat>24.91914</BusStopLat>
+<BusStopLong>66.962109</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Bandar Road</EndPointName>
+<EndPointLat>24.860787</EndPointLat>
+<EndPointLong>67.017802</EndPointLong>
+</EndPoint>
+</Vehicle>

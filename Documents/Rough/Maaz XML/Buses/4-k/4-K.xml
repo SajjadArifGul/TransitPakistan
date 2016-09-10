@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4-K</VehicleName>
+<StartPoint>
+<StartPointName>Kali Market</StartPointName>
+<StartPointLat>24.8574</StartPointLat>
+<StartPointLong>67.012717</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>New Karachi</BusStopName>
+<BusStopLat>24.997697</BusStopLat>
+<BusStopLong>67.062179</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KDA Office</BusStopName>
+<BusStopLat>24.8612</BusStopLat>
+<BusStopLong>67.08011</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Al-Hyderi</BusStopName>
+<BusStopLat>24.834168</BusStopLat>
+<BusStopLong>67.153886</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>State Bank Quarters</BusStopName>
+<BusStopLat>24.925582</BusStopLat>
+<BusStopLong>67.035361</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Napier Road</BusStopName>
+<BusStopLat>24.91914</BusStopLat>
+<BusStopLong>66.962109</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

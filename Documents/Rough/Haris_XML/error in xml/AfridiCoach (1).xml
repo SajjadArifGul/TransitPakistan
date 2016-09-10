@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Afridi Coach</VehicleName>
+<StartPoint>
+<StartPointName>Cattle Colony</StartPointName>
+<StartPointLat>24.828071</StartPointLat>
+<StartPointLong>67.278829</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>PMTF Colony</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Murtaza Chowrangi</BusStopName>
+<BusStopLat>24.851151</BusStopLat>
+<BusStopLong>67.181625</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Godown Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Mor</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Punjab Chowrangi</BusStopName>
+<BusStopLat>24.827849</BusStopLat>
+<BusStopLong>67.039131</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saudi Embassy</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah Shah Ghazi Road</BusStopName>
+<BusStopLat>24.908532</BusStopLat>
+<BusStopLong>67.193647</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shirin Jinnah Colony</BusStopName>
+<BusStopLat>24.817658</BusStopLat>
+<BusStopLong>67.00634</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Masan Road</BusStopName>
+<BusStopLat>24.820778</BusStopLat>
+<BusStopLong>66.994517</BusStopLong>
+</BusStop>
+<WayPoint>
+<WayPointLat>55555</WayPointLat>
+<WayPointLong>44444</WayPointLong>
+</WayPoint>
+<BusStop>
+<BusStopName>Keamari</BusStopName>
+<BusStopLat>24.82269</BusStopLat>
+<BusStopLong>66.983908</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Agra Taj Colony</BusStopName>
+<BusStopLat>24.87143</BusStopLat>
+<BusStopLong>66.9F82419</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Site Police Station</BusStopName>
+<BusStopLat>24.903078</BusStopLat>
+<BusStopLong>67.002571</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Chowrangi</BusStopName>
+<BusStopLat>24.911155</BusStopLat>
+<BusStopLong>67.014327</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metroville</BusStopName>
+<BusStopLat>24.908587</BusStopLat>
+<BusStopLong>66.995823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Faqeer Colony</BusStopName>
+<BusStopLat>24.928753</BusStopLat>
+<BusStopLong>66.984281</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Gulshan-e-Ghazi</EndPointName>
+<EndPointLat>24.934345</EndPointLat>
+<EndPointLong>66.973484</EndPointLong>
+</EndPoint>
+
+</Vehicle>

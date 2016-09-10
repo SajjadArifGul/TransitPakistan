@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>3 Star Coach</VehicleName>
+<StartPoint>
+<StartPointName>Al-Azam Town</StartPointName>
+<StartPointLat>24.91253</StartPointLat>
+<StartPointLong>67.051486</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gulshan Chowrangi</BusStopName>
+<BusStopLat>24.924367</BusStopLat>
+<BusStopLong>67.091643</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Civic Centre</BusStopName>
+<BusStopLat>24.901118</BusStopLat>
+<BusStopLong>67.072711</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabzi Mandi</BusStopName>
+<BusStopLat>24.995757</BusStopLat>
+<BusStopLong>67.157524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bahadurabad</BusStopName>
+<BusStopLat>24.882452</BusStopLat>
+<BusStopLong>67.069389</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tariq Road</BusStopName>
+<BusStopLat>24.872736</BusStopLat>
+<BusStopLong>67.060441</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>FTC</BusStopName>
+<BusStopLat>24.859191</BusStopLat>
+<BusStopLong>67.052575</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>I.I Chundrigar Road</BusStopName>
+<BusStopLat>24.849801</BusStopLat>
+<BusStopLong>67.008065</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Dockyard</EndPointName>
+<EndPointLat>24.841648</EndPointLat>
+<EndPointLong>66.976878</EndPointLong>
+</EndPoint>
+
+</Vehicle>

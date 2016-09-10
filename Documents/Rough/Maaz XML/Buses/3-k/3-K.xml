@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>3-K</VehicleName>
+<StartPoint>
+<StartPointName>Nusrat Bhutto Colony</StartPointName>
+<StartPointLat>24.962157</StartPointLat>
+<StartPointLong>67.045714</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Abdullah College</BusStopName>
+<BusStopLat>24.928821</BusStopLat>
+<BusStopLong>67.024106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Paposh Nagar</BusStopName>
+<BusStopLat>24.923067</BusStopLat>
+<BusStopLong>67.020396</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Maidan</BusStopName>
+<BusStopLat>24.916626</BusStopLat>
+<BusStopLong>67.021762</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No 2</BusStopName>
+<BusStopLat>24.903255</BusStopLat>
+<BusStopLong>67.034569</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Keamari</EndPointName>
+<EndPointLat>24.82269</EndPointLat>
+<EndPointLong>66.983908</EndPointLong>
+</EndPoint>
+
+</Vehicle>

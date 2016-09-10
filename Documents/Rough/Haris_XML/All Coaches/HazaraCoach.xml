@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Hazara Coach</VehicleName>
+<StartPoint>
+<StartPointName>Ruby Cinema</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Ittehad Town</BusStopName>
+<BusStopLat>24.975906</BusStopLat>
+<BusStopLong>66.945189</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Islam Chowk</BusStopName>
+<BusStopLat>24.955202</BusStopLat>
+<BusStopLong>66.99015</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frontiar Colony</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metro</BusStopName>
+<BusStopLat>24.83278</BusStopLat>
+<BusStopLong>67.034571</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Chowrangi</BusStopName>
+<BusStopLat>24.911155</BusStopLat>
+<BusStopLong>67.014327</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gora Qabrastan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 1</BusStopName>
+<BusStopLat>24.841243</BusStopLat>
+<BusStopLong>67.155245</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 2</BusStopName>
+<BusStopLat>24.846659</BusStopLat>
+<BusStopLong>67.143085</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 3</BusStopName>
+<BusStopLat>24.846946</BusStopLat>
+<BusStopLong>67.143106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 5</BusStopName>
+<BusStopLat>24.883144</BusStopLat>
+<BusStopLong>67.161859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Muzaffarabad Colony</EndPointName>
+<EndPointLat>24.826748</EndPointLat>
+<EndPointLong>67.226689</EndPointLong>
+</EndPoint>
+
+</Vehicle>

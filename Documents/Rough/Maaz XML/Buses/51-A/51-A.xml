@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>51-A</VehicleName>
+<StartPoint>
+<StartPointName>Peer Sarhandi Village</StartPointName>
+<StartPointLat>24.88863</StartPointLat>
+<StartPointLong>67.298195</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Lashari Village</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Moosa Goth</BusStopName>
+<BusStopLat>24.857476</BusStopLat>
+<BusStopLong>66.997432</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Model Village</BusStopName>
+<BusStopLat>24.901386</BusStopLat>
+<BusStopLong>67.194024</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chaukandi On National Highway</BusStopName>
+<BusStopLat>24.855349</BusStopLat>
+<BusStopLong>67.212084</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir City</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Stadium Road</BusStopName>
+<BusStopLat>24.89421</BusStopLat>
+<BusStopLong>67.088063</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Lee Market</EndPointName>
+<EndPointLat>24.867994</EndPointLat>
+<EndPointLong>67.01739</EndPointLong>
+</EndPoint>
+
+</Vehicle>

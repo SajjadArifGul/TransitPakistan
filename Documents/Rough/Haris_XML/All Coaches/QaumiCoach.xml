@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Qaumi Coach</VehicleName>
+<StartPoint>
+<StartPointName>Bhains Colony</StartPointName>
+<StartPointLat>24.828071</StartPointLat>
+<StartPointLong>67.278829</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Labour Square</BusStopName>
+<BusStopLat>24.832409</BusStopLat>
+<BusStopLong>67.244565</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hospital Chorangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gul Ahmed</BusStopName>
+<BusStopLat>24.840627</BusStopLat>
+<BusStopLong>67.221476</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gul Ahmed Textile Mills</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir No 15</BusStopName>
+<BusStopLat>24.885303</BusStopLat>
+<BusStopLong>67.184189</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Star Gate</BusStopName>
+<BusStopLat>24.887124</BusStopLat>
+<BusStopLong>67.155791</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Natha Khan Goth</BusStopName>
+<BusStopLat>24.882791</BusStopLat>
+<BusStopLong>67.13508</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gora Qabrastan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lucky Star</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mari Pur</BusStopName>
+<BusStopLat>24.86803</BusStopLat>
+<BusStopLong>66.918385</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metroville</BusStopName>
+<BusStopLat>24.908587</BusStopLat>
+<BusStopLong>66.995823</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Faqeer Colony</EndPointName>
+<EndPointLat>24.928753</EndPointLat>
+<EndPointLong>66.984281</EndPointLong>
+</EndPoint>
+
+</Vehicle>

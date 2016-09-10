@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>17-H</VehicleName>
+<StartPoint>
+<StartPointName>Saddar</StartPointName>
+<StartPointLat>24.853185</StartPointLat>
+<StartPointLong>67.016673</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Jinnah Central Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Market</BusStopName>
+<BusStopLat>24.842592</BusStopLat>
+<BusStopLong>67.057442</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KPT Flyover Interchange</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi Crossing</BusStopName>
+<BusStopLat>24.823403</BusStopLat>
+<BusStopLong>67.093206</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 1</BusStopName>
+<BusStopLat>24.841243</BusStopLat>
+<BusStopLong>67.155245</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 2-1/2</BusStopName>
+<BusStopLat>24.840299</BusStopLat>
+<BusStopLong>67.169251</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 4</BusStopName>
+<BusStopLat>24.836222</BusStopLat>
+<BusStopLong>67.073088</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 5-1/2</BusStopName>
+<BusStopLat>24.829535</BusStopLat>
+<BusStopLong>67.084811</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Dhobi Ghat</EndPointName>
+<EndPointLat>24.878065</EndPointLat>
+<EndPointLong>67.012577</EndPointLong>
+</EndPoint>
+
+</Vehicle>

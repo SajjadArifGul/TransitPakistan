@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Waziristan Coach</VehicleName>
+<StartPoint>
+<StartPointName>Bhittai Colony</StartPointName>
+<StartPointLat>24.810914</StartPointLat>
+<StartPointLong>67.110504</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Korangi No 6</BusStopName>
+<BusStopLat>24.820252</BusStopLat>
+<BusStopLong>67.135961</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 3</BusStopName>
+<BusStopLat>24.846946</BusStopLat>
+<BusStopLong>67.143106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 3</BusStopName>
+<BusStopLat>24.831807</BusStopLat>
+<BusStopLong>67.226158</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 6</BusStopName>
+<BusStopLat>24.830001</BusStopLat>
+<BusStopLong>67.226682</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gora Qabrastan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>PIDC House</BusStopName>
+<BusStopLat>24.840411</BusStopLat>
+<BusStopLong>67.032959</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sultanabad</BusStopName>
+<BusStopLat>24.839838</BusStopLat>
+<BusStopLong>67.018534</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>PNSC</BusStopName>
+<BusStopLat>24.844152</BusStopLat>
+<BusStopLong>66.992751</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Fisheries</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mari Pur</BusStopName>
+<BusStopLat>24.86803</BusStopLat>
+<BusStopLong>66.918385</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Gulbai</EndPointName>
+<EndPointLat>24.876422</EndPointLat>
+<EndPointLong>66.967899</EndPointLong>
+</EndPoint>
+
+</Vehicle>

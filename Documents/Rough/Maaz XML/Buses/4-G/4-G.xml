@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4-G</VehicleName>
+<StartPoint>
+<StartPointName>Karella Mour</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Power House</BusStopName>
+<BusStopLat>24.986827</BusStopLat>
+<BusStopLong>67.065875</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saleem Centre</BusStopName>
+<BusStopLat>24.853271</BusStopLat>
+<BusStopLong>67.005087</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>U.P Mour</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Post Office</BusStopName>
+<BusStopLat>24.935695</BusStopLat>
+<BusStopLong>67.001454</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Empress Market</BusStopName>
+<BusStopLat>24.864089</BusStopLat>
+<BusStopLong>67.027842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+</Vehicle>

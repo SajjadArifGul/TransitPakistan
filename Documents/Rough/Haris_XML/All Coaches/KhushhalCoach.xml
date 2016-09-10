@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Khush hal Coach</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Bahar</StartPointName>
+<StartPointLat>24.976908</StartPointLat>
+<StartPointLong>66.994333</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Orangi No 14</BusStopName>
+<BusStopLat>24.959369</BusStopLat>
+<BusStopLong>66.997661</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 5</BusStopName>
+<BusStopLat>24.975271</BusStopLat>
+<BusStopLong>66.986496</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metro Cinema</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras</BusStopName>
+<BusStopLat>24.994121</BusStopLat>
+<BusStopLong>66.990652</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika Mills</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Golimar</BusStopName>
+<BusStopLat>24.886023</BusStopLat>
+<BusStopLong>67.0129</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Plaza</BusStopName>
+<BusStopLat>24.864436</BusStopLat>
+<BusStopLong>67.022819</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bolton Market</BusStopName>
+<BusStopLat>24.851644</BusStopLat>
+<BusStopLong>67.000663</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>PNSC</EndPointName>
+<EndPointLat>24.844152</EndPointLat>
+<EndPointLong>66.992751</EndPointLong>
+</EndPoint>
+
+</Vehicle>

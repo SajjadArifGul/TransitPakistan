@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Dost Coach</VehicleName>
+<StartPoint>
+<StartPointName>Mohajir Camp</StartPointName>
+<StartPointLat>24.916325</StartPointLat>
+<StartPointLong>66.972367</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Siemens Chowrangi</BusStopName>
+<BusStopLat>24.903056</BusStopLat>
+<BusStopLong>67.002591</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bismillah Hotel</BusStopName>
+<BusStopLat>24.896655</BusStopLat>
+<BusStopLong>67.019667</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Makki Masjid</BusStopName>
+<BusStopLat>24.918763</BusStopLat>
+<BusStopLong>67.023793</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Quaideen</BusStopName>
+<BusStopLat>24.866473</BusStopLat>
+<BusStopLong>67.053691</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khalid Bin Waleed Road</BusStopName>
+<BusStopLat>25.017487</BusStopLat>
+<BusStopLong>67.136113</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shaheed-e-Millat Road</BusStopName>
+<BusStopLat>24.882855</BusStopLat>
+<BusStopLong>67.059622</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baloch Colony</BusStopName>
+<BusStopLat>24.867255</BusStopLat>
+<BusStopLong>67.082744</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Star Gate</BusStopName>
+<BusStopLat>24.887124</BusStopLat>
+<BusStopLong>67.155791</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Halt</BusStopName>
+<BusStopLat>24.88478</BusStopLat>
+<BusStopLong>67.175375</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Avenue</BusStopName>
+<BusStopLat>24.901161</BusStopLat>
+<BusStopLong>67.181055</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Model Colony</BusStopName>
+<BusStopLat>24.905761</BusStopLat>
+<BusStopLong>67.18647</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saudabad</BusStopName>
+<BusStopLat>24.889909</BusStopLat>
+<BusStopLong>67.192428</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khokrapar</BusStopName>
+<BusStopLat>24.903643</BusStopLat>
+<BusStopLong>67.212538</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Chaman Colony</EndPointName>
+<EndPointLat>24.934949</EndPointLat>
+<EndPointLong>67.14048</EndPointLong>
+</EndPoint>
+
+</Vehicle>

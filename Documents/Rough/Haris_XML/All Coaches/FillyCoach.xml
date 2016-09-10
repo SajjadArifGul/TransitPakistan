@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Filly Coach</VehicleName>
+<StartPoint>
+<StartPointName>Labour Square</StartPointName>
+<StartPointLat>24.832409</StartPointLat>
+<StartPointLong>67.244565</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Muzaffarabad Colony</BusStopName>
+<BusStopLat>24.826748</BusStopLat>
+<BusStopLong>67.226689</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gul Ahmed Mills</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bilal Chowrangi</BusStopName>
+<BusStopLat>24.842975</BusStopLat>
+<BusStopLong>67.142006</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 1</BusStopName>
+<BusStopLat>24.832315</BusStopLat>
+<BusStopLong>67.227411</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 4</BusStopName>
+<BusStopLat>24.829911</BusStopLat>
+<BusStopLong>67.228268</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 6</BusStopName>
+<BusStopLat>24.830001</BusStopLat>
+<BusStopLong>67.226682</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 4</BusStopName>
+<BusStopLat>24.836222</BusStopLat>
+<BusStopLong>67.073088</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 1</BusStopName>
+<BusStopLat>24.841243</BusStopLat>
+<BusStopLong>67.155245</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Society</BusStopName>
+<BusStopLat>24.839726</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dehli Colony</BusStopName>
+<BusStopLat>24.905429</BusStopLat>
+<BusStopLong>67.107874</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Metropole</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+
+</Vehicle>

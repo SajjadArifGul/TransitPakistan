@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>New Afridi Coach</VehicleName>
+<StartPoint>
+<StartPointName>Bhains Colony</StartPointName>
+<StartPointLat>24.828071</StartPointLat>
+<StartPointLong>67.278829</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>PMTF Colony</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mansehra Colony</BusStopName>
+<BusStopLat>24.856889</BusStopLat>
+<BusStopLong>67.197799</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Godown Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Mor</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Punjab Chowrangi</BusStopName>
+<BusStopLat>24.827849</BusStopLat>
+<BusStopLong>67.039131</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saudi Embassy</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mazar-e-Quaid</BusStopName>
+<BusStopLat>24.875397</BusStopLat>
+<BusStopLong>67.040967</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Site Police Station</BusStopName>
+<BusStopLat>24.903078</BusStopLat>
+<BusStopLong>67.002571</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Chowrangi</BusStopName>
+<BusStopLat>24.911155</BusStopLat>
+<BusStopLong>67.014327</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metroville</BusStopName>
+<BusStopLat>24.908587</BusStopLat>
+<BusStopLong>66.995823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mominabad</BusStopName>
+<BusStopLat>24.928852</BusStopLat>
+<BusStopLong>66.991355</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Faqeer Colony</BusStopName>
+<BusStopLat>24.928753</BusStopLat>
+<BusStopLong>66.984281</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Gulshan Ghazi</EndPointName>
+<EndPointLat>24.934345</EndPointLat>
+<EndPointLong>66.973484</EndPointLong>
+</EndPoint>
+
+</Vehicle>

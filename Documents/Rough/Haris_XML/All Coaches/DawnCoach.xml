@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Dawn Coach</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Hadeed</StartPointName>
+<StartPointLat>24.869999</StartPointLat>
+<StartPointLong>67.354256</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Machine Tool Factory</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bhains Colony</BusStopName>
+<BusStopLat>24.828071</BusStopLat>
+<BusStopLong>67.278829</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shafi Goth</BusStopName>
+<BusStopLat>24.8575</BusStopLat>
+<BusStopLong>67.239352</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Manzil Petrol Pump</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kala Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Halt</BusStopName>
+<BusStopLat>24.88478</BusStopLat>
+<BusStopLong>67.175375</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Khudadad Colony</EndPointName>
+<EndPointLat>24.872753</EndPointLat>
+<EndPointLong>67.046524</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>53-B</VehicleName>
+<StartPoint>
+<StartPointName>Washail Bagh</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gadap Goth</BusStopName>
+<BusStopLat>25.069028</BusStopLat>
+<BusStopLong>67.244684</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Muderwah</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kenker</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bakhari Bijara Bhatti</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Jikhria</BusStopName>
+<BusStopLat>24.854593</BusStopLat>
+<BusStopLong>67.00169</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Cantt</BusStopName>
+<BusStopLat>24.925616</BusStopLat>
+<BusStopLong>67.202801</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>University</BusStopName>
+<BusStopLat>24.939151</BusStopLat>
+<BusStopLong>67.113476</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp Road</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Lee Market</EndPointName>
+<EndPointLat>24.867994</EndPointLat>
+<EndPointLong>67.01739</EndPointLong>
+</EndPoint>
+
+</Vehicle>

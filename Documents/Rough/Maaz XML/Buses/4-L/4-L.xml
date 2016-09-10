@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4-L</VehicleName>
+<StartPoint>
+<StartPointName>Maymar Complex</StartPointName>
+<StartPointLat>25.002639</StartPointLat>
+<StartPointLong>67.119627</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Al-Asif Plaza</BusStopName>
+<BusStopLat>24.941626</BusStopLat>
+<BusStopLong>67.067278</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Water Pump</BusStopName>
+<BusStopLat>24.933841</BusStopLat>
+<BusStopLong>66.956125</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karimabad</BusStopName>
+<BusStopLat>24.9217</BusStopLat>
+<BusStopLong>67.05835</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Empress Market</BusStopName>
+<BusStopLat>24.864089</BusStopLat>
+<BusStopLong>67.027842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Silver Coach</VehicleName>
+<StartPoint>
+<StartPointName>Race Course</StartPointName>
+<StartPointLat>24.887559</StartPointLat>
+<StartPointLong>67.098402</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>University Road</BusStopName>
+<BusStopLat>24.92894</BusStopLat>
+<BusStopLong>67.114351</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Safari Park</BusStopName>
+<BusStopLat>24.9225</BusStopLat>
+<BusStopLong>67.111389</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bhyani Heights</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Disco Bakery</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulshan Chowrangi</BusStopName>
+<BusStopLat>24.924367</BusStopLat>
+<BusStopLong>67.091643</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Samdani Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulshan-e-Shamim</BusStopName>
+<BusStopLat>24.916757</BusStopLat>
+<BusStopLong>67.074385</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Azizabad</BusStopName>
+<BusStopLat>24.920743</BusStopLat>
+<BusStopLong>67.066566</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Aliabad</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karimabad</BusStopName>
+<BusStopLat>24.9217</BusStopLat>
+<BusStopLong>67.05835</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>P.I.B Colony</BusStopName>
+<BusStopLat>24.894681</BusStopLat>
+<BusStopLong>67.056885</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shaheed-e-Millat Road</BusStopName>
+<BusStopLat>24.882855</BusStopLat>
+<BusStopLong>67.059622</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Society Qabrastan</BusStopName>
+<BusStopLat>24.821412</BusStopLat>
+<BusStopLong>67.156563</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gora Qabrastan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sunset Boulevard</BusStopName>
+<BusStopLat>24.831552</BusStopLat>
+<BusStopLong>67.059716</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gizri</BusStopName>
+<BusStopLat>24.82112</BusStopLat>
+<BusStopLong>67.04348</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Clifton</EndPointName>
+<EndPointLat>24.824796</EndPointLat>
+<EndPointLong>67.031566</EndPointLong>
+</EndPoint>
+
+</Vehicle>

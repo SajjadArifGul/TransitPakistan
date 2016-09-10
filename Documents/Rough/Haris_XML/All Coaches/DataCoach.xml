@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Data Coach</VehicleName>
+<StartPoint>
+<StartPointName>KDA Site Office</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Surjani Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Allah Wali</BusStopName>
+<BusStopLat>24.846584</BusStopLat>
+<BusStopLong>67.082809</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>D Mor</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sindhi Hotel</BusStopName>
+<BusStopLat>24.996667</BusStopLat>
+<BusStopLong>67.077635</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Power House</BusStopName>
+<BusStopLat>24.986827</BusStopLat>
+<BusStopLong>67.065875</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Purani Sabzi Mandi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bahadurabad</BusStopName>
+<BusStopLat>24.882452</BusStopLat>
+<BusStopLong>67.069389</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tariq Road</BusStopName>
+<BusStopLat>24.872736</BusStopLat>
+<BusStopLong>67.060441</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Society Graveyard</BusStopName>
+<BusStopLat>24.863069</BusStopLat>
+<BusStopLong>67.149603</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Quaideen</BusStopName>
+<BusStopLat>24.866473</BusStopLat>
+<BusStopLong>67.053691</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>FTC</BusStopName>
+<BusStopLat>24.859191</BusStopLat>
+<BusStopLong>67.052575</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospitall</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Askari Apartment</BusStopName>
+<BusStopLat>24.846393</BusStopLat>
+<BusStopLong>67.040688</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chowdhry Khaliquz Zaman Road</BusStopName>
+<BusStopLat>24.936917</BusStopLat>
+<BusStopLong>67.05129</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Abdullah Shah Ghazi</EndPointName>
+<EndPointLat>24.881005</EndPointLat>
+<EndPointLong>67.203483</EndPointLong>
+</EndPoint>
+
+</Vehicle>

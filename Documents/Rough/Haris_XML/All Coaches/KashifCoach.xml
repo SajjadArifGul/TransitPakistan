@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Kashif Coach</VehicleName>
+<StartPoint>
+<StartPointName>Murad Memon Goth</StartPointName>
+<StartPointLat>24.889991</StartPointLat>
+<StartPointLong>67.228354</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Jam Goth</BusStopName>
+<BusStopLat>24.892157</BusStopLat>
+<BusStopLong>67.232648</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir No 15</BusStopName>
+<BusStopLat>24.885303</BusStopLat>
+<BusStopLong>67.184189</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Airport</BusStopName>
+<BusStopLat>24.895337</BusStopLat>
+<BusStopLong>67.163009</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Stadium</BusStopName>
+<BusStopLat>24.89421</BusStopLat>
+<BusStopLong>67.088063</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ranchore Line</BusStopName>
+<BusStopLat>24.858693</BusStopLat>
+<BusStopLong>67.006153</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kharadar</BusStopName>
+<BusStopLat>24.85039</BusStopLat>
+<BusStopLong>66.995078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Moosa Lane</BusStopName>
+<BusStopLat>24.85787</BusStopLat>
+<BusStopLong>66.998056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baghadi Moosa Lane</BusStopName>
+<BusStopLat>24.857476</BusStopLat>
+<BusStopLong>66.997432</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hanif Manzil</BusStopName>
+<BusStopLat>24.870036</BusStopLat>
+<BusStopLong>66.987124</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Agra Taj</EndPointName>
+<EndPointLat>24.87143</EndPointLat>
+<EndPointLong>66.982419</EndPointLong>
+</EndPoint>
+
+</Vehicle>

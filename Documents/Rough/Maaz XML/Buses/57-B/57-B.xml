@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>57-B</VehicleName>
+
+<StartPoint>
+<StartPointName>Naval Colony</StartPointName>
+<StartPointLat>24.945319</StartPointLat>
+<StartPointLong>66.937743</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Mohajir Camp</BusStopName>
+<BusStopLat>24.916325</BusStopLat>
+<BusStopLong>66.972367</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mira Naka</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chakiwara</BusStopName>
+<BusStopLat>24.867666</BusStopLat>
+<BusStopLong>66.998056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mohabbat Khanji Road</BusStopName>
+<BusStopLat>24.853951</BusStopLat>
+<BusStopLong>66.99635</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khoja Jamat Khana</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Custom House</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

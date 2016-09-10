@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Rehman Coach</VehicleName>
+<StartPoint>
+<StartPointName>Orangi No 11</StartPointName>
+<StartPointLat>24.975142</StartPointLat>
+<StartPointLong>66.984854</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Orangi No 8</BusStopName>
+<BusStopLat>24.97514</BusStopLat>
+<BusStopLong>66.985677</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qasba Colony</BusStopName>
+<BusStopLat>24.942563</BusStopLat>
+<BusStopLong>67.024119</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pacha Khan Chowk</BusStopName>
+<BusStopLat>24.932638</BusStopLat>
+<BusStopLong>67.015857</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pakistan Chowk</BusStopName>
+<BusStopLat>24.928267</BusStopLat>
+<BusStopLong>66.967289</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dr. Ziauddin Road</BusStopName>
+<BusStopLat>24.847634</BusStopLat>
+<BusStopLong>67.023463</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>PIDC House</BusStopName>
+<BusStopLat>24.840411</BusStopLat>
+<BusStopLong>67.032959</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gizri</BusStopName>
+<BusStopLat>24.82112</BusStopLat>
+<BusStopLong>67.04348</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saudi Embassy</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Khayaban-e-Shamsher</EndPointName>
+<EndPointLat>24.812595</EndPointLat>
+<EndPointLong>67.047208</EndPointLong>
+</EndPoint>
+
+</Vehicle>

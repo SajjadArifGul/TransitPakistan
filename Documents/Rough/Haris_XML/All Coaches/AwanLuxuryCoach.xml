@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Awan Luxury Coach</VehicleName>
+<StartPoint>
+<StartPointName>Ittehad Town</StartPointName>
+<StartPointLat>24.975906</StartPointLat>
+<StartPointLong>66.945189</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Raees Amrohi Colony</BusStopName>
+<BusStopLat>24.961747</BusStopLat>
+<BusStopLong>66.974228</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chishti Nagar</BusStopName>
+<BusStopLat>24.964088</BusStopLat>
+<BusStopLong>66.97232</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 5</BusStopName>
+<BusStopLat>24.975271</BusStopLat>
+<BusStopLong>66.986496</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras Chowk</BusStopName>
+<BusStopLat>24.994121</BusStopLat>
+<BusStopLong>66.990652</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mazar Abullah Shah Ghazi</BusStopName>
+<BusStopLat>24.870672</BusStopLat>
+<BusStopLong>67.195314</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Clifton</EndPointName>
+<EndPointLat>24.824796</EndPointLat>
+<EndPointLong>67.031566</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>52-A</VehicleName>
+<StartPoint>
+<StartPointName>Labour Square</StartPointName>
+<StartPointLat>24.832409</StartPointLat>
+<StartPointLong>67.244565</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gul Mohammad Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metropolitan Steel Corporation</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qaddafi Town</BusStopName>
+<BusStopLat>24.941105</BusStopLat>
+<BusStopLong>67.01121</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi</BusStopName>
+<BusStopLat>24.839878</BusStopLat>
+<BusStopLong>67.191098</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir City</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nishter Road</BusStopName>
+<BusStopLat>24.888391</BusStopLat>
+<BusStopLong>67.034313</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Agha Khan Jamat Khana</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>G.Allana Road</BusStopName>
+<BusStopLat>24.853801</BusStopLat>
+<BusStopLong>66.989965</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khoja Jamat Khana</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dockyard</BusStopName>
+<BusStopLat>24.841648</BusStopLat>
+<BusStopLong>66.976878</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Fisheries</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+
+</Vehicle>

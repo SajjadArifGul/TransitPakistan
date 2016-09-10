@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>UTS Bus</VehicleType>
+<VehicleName>UTS-11</VehicleName>
+<StartPoint>
+<StartPointName>Saudabad</StartPointName>
+<StartPointLat>24.889909</StartPointLat>
+<StartPointLong>67.192428</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Civic Centre</BusStopName>
+<BusStopLat>24.901118</BusStopLat>
+<BusStopLong>67.072711</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad</BusStopName>
+<BusStopLat>24.911098</BusStopLat>
+<BusStopLong>67.028587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika</BusStopName>
+<BusStopLat>24.908913</BusStopLat>
+<BusStopLong>67.000475</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras</BusStopName>
+<BusStopLat>24.994121</BusStopLat>
+<BusStopLong>66.990652</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Orangi No 5</EndPointName>
+<EndPointLat>24.975271</EndPointLat>
+<EndPointLong>66.986496</EndPointLong>
+</EndPoint>
+</Vehicle>

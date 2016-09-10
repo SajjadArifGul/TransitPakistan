@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>UTS Bus</VehicleType>
+<VehicleName>UTS-12</VehicleName>
+<StartPoint>
+<StartPointName>Khokrapar</StartPointName>
+<StartPointLat>24.903643</StartPointLat>
+<StartPointLong>67.212538</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Saudabad</BusStopName>
+<BusStopLat>24.889909</BusStopLat>
+<BusStopLong>67.192428</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kala Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Airport</BusStopName>
+<BusStopLat>24.895337</BusStopLat>
+<BusStopLong>67.163009</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Natha Khan Goth</BusStopName>
+<BusStopLat>24.882791</BusStopLat>
+<BusStopLong>67.13508</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baloch Colony</BusStopName>
+<BusStopLat>24.867255</BusStopLat>
+<BusStopLong>67.082744</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Regent Palaz</BusStopName>
+<BusStopLat>24.855611</BusStopLat>
+<BusStopLong>67.038929</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>I.I Chundrigar Road</BusStopName>
+<BusStopLat>24.849801</BusStopLat>
+<BusStopLong>67.008065</BusStopLong>
+</BusStop>
+<BusStop>
+
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

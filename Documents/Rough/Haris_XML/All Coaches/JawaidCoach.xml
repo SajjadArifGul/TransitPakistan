@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Jawaid Coach</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Baradari</BusStopName>
+<BusStopLat>24.82519</BusStopLat>
+<BusStopLong>67.141597</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Disco Mor</BusStopName>
+<BusStopLat>24.971781</BusStopLat>
+<BusStopLong>67.055998</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Post Office</BusStopName>
+<BusStopLat>24.935695</BusStopLat>
+<BusStopLong>67.001454</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>PNSC</BusStopName>
+<BusStopLat>24.844152</BusStopLat>
+<BusStopLong>66.992751</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mai Kolachi Road</BusStopName>
+<BusStopLat>24.840099</BusStopLat>
+<BusStopLong>67.007346</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Boat Basin</BusStopName>
+<BusStopLat>24.821231</BusStopLat>
+<BusStopLong>67.018162</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Super Market</BusStopName>
+<BusStopLat>24.850538</BusStopLat>
+<BusStopLong>67.009505</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah Shah Ghazi</BusStopName>
+<BusStopLat>24.881005</BusStopLat>
+<BusStopLong>67.203483</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saudi Embassy</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gizri</BusStopName>
+<BusStopLat>24.82112</BusStopLat>
+<BusStopLong>67.04348</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Punjab Colony</BusStopName>
+<BusStopLat>24.830821</BusStopLat>
+<BusStopLong>67.047204</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Mor</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 1</BusStopName>
+<BusStopLat>24.841243</BusStopLat>
+<BusStopLong>67.155245</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Babar Market</BusStopName>
+<BusStopLat>24.883184</BusStopLat>
+<BusStopLong>67.033588</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Quaidabad</EndPointName>
+<EndPointLat>24.858407</EndPointLat>
+<EndPointLong>67.211702</EndPointLong>
+</EndPoint>
+</Vehicle>

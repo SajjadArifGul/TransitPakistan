@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>1-G</VehicleName>
+<StartPoint>
+<StartPointName>M.W Tower</StartPointName>
+<StartPointLat>24.834721</StartPointLat>
+<StartPointLong>67.070906</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No 2</BusStopName>
+<BusStopLat>24.903255</BusStopLat>
+<BusStopLong>67.034569</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Paposh Nagar</BusStopName>
+<BusStopLat>24.923067</BusStopLat>
+<BusStopLong>67.020396</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah College</BusStopName>
+<BusStopLat>24.928821</BusStopLat>
+<BusStopLong>67.024106</BusStopLong>
+</BusStop>
+<BusStop>
+
+</Vehicle>

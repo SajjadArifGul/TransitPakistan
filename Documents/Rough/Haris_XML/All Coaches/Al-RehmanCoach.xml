@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Al-Rehman Coach</VehicleName>
+<StartPoint>
+<StartPointName>Shershah</StartPointName>
+<StartPointLat>24.883591</StartPointLat>
+<StartPointLong>66.988376</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Pankha Hotel</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mira Naka</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chakiwara</BusStopName>
+<BusStopLat>24.867666</BusStopLat>
+<BusStopLong>66.998056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Eye Hospital</BusStopName>
+<BusStopLat>24.916624</BusStopLat>
+<BusStopLong>67.020582</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Napier Police Station</BusStopName>
+<BusStopLat>24.8617</BusStopLat>
+<BusStopLong>67.001454</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ghas Mandi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ranchore Line</BusStopName>
+<BusStopLat>24.858693</BusStopLat>
+<BusStopLong>67.006153</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Agha Khan Hospital</BusStopName>
+<BusStopLat>24.8936</BusStopLat>
+<BusStopLong>67.071313</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Airport</BusStopName>
+<BusStopLat>24.895337</BusStopLat>
+<BusStopLong>67.163009</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir City</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mansehra Colony</BusStopName>
+<BusStopLat>24.856889</BusStopLat>
+<BusStopLong>67.197799</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Godown Chowrangi</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+</Vehicle>

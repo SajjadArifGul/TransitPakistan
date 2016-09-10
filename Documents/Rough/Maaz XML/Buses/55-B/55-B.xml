@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>55-B</VehicleName>
+<StartPoint>
+<StartPointName>Darsana Chana</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Malir City</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Highway</BusStopName>
+<BusStopLat>24.855349</BusStopLat>
+<BusStopLong>67.212084</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dalmia Cement Factory Road</BusStopName>
+<BusStopLat>24.90389</BusStopLat>
+<BusStopLong>67.102609</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Martin Road</BusStopName>
+<BusStopLat>24.891291</BusStopLat>
+<BusStopLong>67.047895</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp Road</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Lee Market</EndPointName>
+<EndPointLat>24.867994</EndPointLat>
+<EndPointLong>67.01739</EndPointLong>
+</EndPoint>
+
+</Vehicle>

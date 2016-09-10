@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>7 Star Flying Coach</VehicleName>
+<StartPoint>
+<StartPointName>Orangi No 11 A½</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Orangi No 5</BusStopName>
+<BusStopLat>24.975271</BusStopLat>
+<BusStopLong>66.986496</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metro Cinema</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras Chowk</BusStopName>
+<BusStopLat>24.994121</BusStopLat>
+<BusStopLong>66.990652</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad Petrol Pump</BusStopName>
+<BusStopLat>24.910989</BusStopLat>
+<BusStopLong>67.030751</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Stadium</BusStopName>
+<BusStopLat>24.89421</BusStopLat>
+<BusStopLong>67.088063</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Star Gate</BusStopName>
+<BusStopLat>24.887124</BusStopLat>
+<BusStopLong>67.155791</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Halt</BusStopName>
+<BusStopLat>24.88478</BusStopLat>
+<BusStopLong>67.175375</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kala Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lal Masjid</BusStopName>
+<BusStopLat>24.853693</BusStopLat>
+<BusStopLong>67.00157</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saudabad</BusStopName>
+<BusStopLat>24.889909</BusStopLat>
+<BusStopLong>67.192428</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Khokrapar</EndPointName>
+<EndPointLat>24.903643</EndPointLat>
+<EndPointLong>67.212538</EndPointLong>
+</EndPoint>
+</Vehicle>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Super Muslim Coach</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Hadeed</StartPointName>
+<StartPointLat>24.869999</StartPointLat>
+<StartPointLong>67.354256</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Futre Colony</BusStopName>
+<BusStopLat>24.858883</BusStopLat>
+<BusStopLong>67.199876</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Murtaza Chowrangi</BusStopName>
+<BusStopLat>24.851151</BusStopLat>
+<BusStopLong>67.181625</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chamra Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Godown Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Gol Masjid</BusStopName>
+<BusStopLat>24.86965</BusStopLat>
+<BusStopLong>67.07499</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Kalapul</EndPointName>
+<EndPointLat>24.850754</EndPointLat>
+<EndPointLong>67.052453</EndPointLong>
+</EndPoint>
+
+</Vehicle>

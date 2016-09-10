@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Rainbow Coach</VehicleName>
+<StartPoint>
+<StartPointName>North Karachi</StartPointName>
+<StartPointLat>24.972871</StartPointLat>
+<StartPointLong>67.064331</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Disco Mor</BusStopName>
+<BusStopLat>24.971781</BusStopLat>
+<BusStopLong>67.055998</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qalandari Chowk</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pahar Gang</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Paposh Nagar</BusStopName>
+<BusStopLat>24.923067</BusStopLat>
+<BusStopLong>67.020396</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Plaza</BusStopName>
+<BusStopLat>24.864436</BusStopLat>
+<BusStopLong>67.022819</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qamar House</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>State Bank Of Pakistan</BusStopName>
+<BusStopLat>24.851221</BusStopLat>
+<BusStopLong>67.00195</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shaheen Complex</BusStopName>
+<BusStopLat>24.850815</BusStopLat>
+<BusStopLong>67.01943</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>PIDC</BusStopName>
+<BusStopLat>24.840411</BusStopLat>
+<BusStopLong>67.032959</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Super Market</BusStopName>
+<BusStopLat>24.850538</BusStopLat>
+<BusStopLong>67.009505</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sunset Boulevard</BusStopName>
+<BusStopLat>24.831552</BusStopLat>
+<BusStopLong>67.059716</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 1</BusStopName>
+<BusStopLat>24.841243</BusStopLat>
+<BusStopLong>67.155245</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 2</BusStopName>
+<BusStopLat>24.846659</BusStopLat>
+<BusStopLong>67.143085</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 3</BusStopName>
+<BusStopLat>24.846946</BusStopLat>
+<BusStopLong>67.143106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 4</BusStopName>
+<BusStopLat>24.836222</BusStopLat>
+<BusStopLong>67.073088</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 5</BusStopName>
+<BusStopLat>24.883144</BusStopLat>
+<BusStopLong>67.161859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 6</BusStopName>
+<BusStopLat>24.820252</BusStopLat>
+<BusStopLong>67.135961</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 6</BusStopName>
+<BusStopLat>24.830001</BusStopLat>
+<BusStopLong>67.226682</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 5</BusStopName>
+<BusStopLat>24.829848</BusStopLat>
+<BusStopLong>67.227512</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 4</BusStopName>
+<BusStopLat>24.829911</BusStopLat>
+<BusStopLong>67.228268</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 3</BusStopName>
+<BusStopLat>24.831807</BusStopLat>
+<BusStopLong>67.226158</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 2</BusStopName>
+<BusStopLat>24.83974</BusStopLat>
+<BusStopLong>67.169532</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Landhi No 1</BusStopName>
+<BusStopLat>24.832315</BusStopLat>
+<BusStopLong>67.227411</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Gulshan-e-Hadeed</EndPointName>
+<EndPointLat>24.869999</EndPointLat>
+<EndPointLong>67.354256</EndPointLong>
+</EndPoint>
+
+</Vehicle>

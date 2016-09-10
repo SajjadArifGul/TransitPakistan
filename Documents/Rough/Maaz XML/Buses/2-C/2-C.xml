@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>2-C</VehicleName>
+<StartPoint>
+<StartPointName>Rehmania Mour</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Khawaj Ajmer Nagri</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baradari</BusStopName>
+<BusStopLat>24.82519</BusStopLat>
+<BusStopLong>67.141597</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Disco Mor</BusStopName>
+<BusStopLat>24.971781</BusStopLat>
+<BusStopLong>67.055998</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nusrat Bhutto Colony</BusStopName>
+<BusStopLat>24.962157</BusStopLat>
+<BusStopLong>67.045714</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah College</BusStopName>
+<BusStopLat>24.928821</BusStopLat>
+<BusStopLong>67.024106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No 7</BusStopName>
+<BusStopLat>24.955073</BusStopLat>
+<BusStopLong>67.065432</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Patel Para</BusStopName>
+<BusStopLat>24.885131</BusStopLat>
+<BusStopLong>67.036778</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth Market</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

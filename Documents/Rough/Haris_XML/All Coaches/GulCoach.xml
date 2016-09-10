@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Gul Coach</VehicleName>
+<StartPoint>
+<StartPointName>Sohrab Goth</StartPointName>
+<StartPointLat>24.943902</StartPointLat>
+<StartPointLong>67.084417</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Ispahani Road</BusStopName>
+<BusStopLat>24.938549</BusStopLat>
+<BusStopLong>67.101634</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Disco Bakery</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulshan Chowrangi</BusStopName>
+<BusStopLat>24.924367</BusStopLat>
+<BusStopLong>67.091643</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Civic Centre</BusStopName>
+<BusStopLat>24.901118</BusStopLat>
+<BusStopLong>67.072711</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Purani Sabzi Mandi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Islamia College</BusStopName>
+<BusStopLat>24.87974</BusStopLat>
+<BusStopLong>67.04618</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saeed Manzil</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth Market</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baldia Town</BusStopName>
+<BusStopLat>24.938096</BusStopLat>
+<BusStopLong>66.961906</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saeedabad</BusStopName>
+<BusStopLat>24.90935</BusStopLat>
+<BusStopLong>66.966038</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Machi Goth</EndPointName>
+<EndPointLat>24.911696</EndPointLat>
+<EndPointLong>67.017696</EndPointLong>
+</EndPoint>
+
+</Vehicle>

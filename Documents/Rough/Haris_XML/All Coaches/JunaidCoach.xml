@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Junaid Coach</VehicleName>
+<StartPoint>
+<StartPointName>Landhi</StartPointName>
+<StartPointLat>24.839878</StartPointLat>
+<StartPointLong>67.191098</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Korangi</BusStopName>
+<BusStopLat>24.825671</BusStopLat>
+<BusStopLong>67.13184</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Darul-u-Uloom Masjid</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nasir Colony</BusStopName>
+<BusStopLat>24.825333</BusStopLat>
+<BusStopLong>67.126143</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Baloch Colony</BusStopName>
+<BusStopLat>24.867255</BusStopLat>
+<BusStopLong>67.082744</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shaheed-e-Millat Road</BusStopName>
+<BusStopLat>24.882855</BusStopLat>
+<BusStopLong>67.059622</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Post Office</BusStopName>
+<BusStopLat>24.935695</BusStopLat>
+<BusStopLong>67.001454</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah College</BusStopName>
+<BusStopLat>24.928821</BusStopLat>
+<BusStopLong>67.024106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 1</BusStopName>
+<BusStopLat>24.975825</BusStopLat>
+<BusStopLong>66.987559</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Qater Hospital</EndPointName>
+<EndPointLat>24.944045</EndPointLat>
+<EndPointLong>67.012763</EndPointLong>
+</EndPoint>
+
+</Vehicle>

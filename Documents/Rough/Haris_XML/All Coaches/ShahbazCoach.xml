@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Shahbaz Coach</VehicleName>
+<StartPoint>
+<StartPointName>Safoora Goth</StartPointName>
+<StartPointLat>24.939342</StartPointLat>
+<StartPointLong>67.156173</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>University Road</BusStopName>
+<BusStopLat>24.92894</BusStopLat>
+<BusStopLong>67.114351</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabzi Mandi</BusStopName>
+<BusStopLat>24.995757</BusStopLat>
+<BusStopLong>67.157524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>New Town Police Station</BusStopName>
+<BusStopLat>24.92894</BusStopLat>
+<BusStopLong>67.114351</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shaheed-e-Millat Road</BusStopName>
+<BusStopLat>24.882855</BusStopLat>
+<BusStopLong>67.059622</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Quaideen</BusStopName>
+<BusStopLat>24.866473</BusStopLat>
+<BusStopLong>67.053691</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>FTC</BusStopName>
+<BusStopLat>24.859191</BusStopLat>
+<BusStopLong>67.052575</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Arts Council Pakistan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>I.I Chundrigar Road</BusStopName>
+<BusStopLat>24.849801</BusStopLat>
+<BusStopLong>67.008065</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Keamari</EndPointName>
+<EndPointLat>24.82269</EndPointLat>
+<EndPointLong>66.983908</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>2-D</VehicleName>
+<StartPoint>
+<StartPointName>F.B Area</StartPointName>
+<StartPointLat>24.933287</StartPointLat>
+<StartPointLong>67.071628</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Noorani Masjid</BusStopName>
+<BusStopLat>24.897985</BusStopLat>
+<BusStopLong>67.034913</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Peoples Colony</BusStopName>
+<BusStopLat>24.944708</BusStopLat>
+<BusStopLong>67.065449</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Imam Bara</BusStopName>
+<BusStopLat>24.859007</BusStopLat>
+<BusStopLong>67.030297</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Humayun Road</BusStopName>
+<BusStopLat>25.029151</BusStopLat>
+<BusStopLong>67.136488</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KDA Office</BusStopName>
+<BusStopLat>24.8612</BusStopLat>
+<BusStopLong>67.08011</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>North Nazimabad</BusStopName>
+<BusStopLat>24.935421</BusStopLat>
+<BusStopLong>67.040502</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No 7</BusStopName>
+<BusStopLat>24.955073</BusStopLat>
+<BusStopLong>67.065432</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabil Wali Masjid</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Soldier Bazar</BusStopName>
+<BusStopLat>24.871706</BusStopLat>
+<BusStopLong>67.028376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.W Tower</BusStopName>
+<BusStopLat>24.834721</BusStopLat>
+<BusStopLong>67.070906</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Noorani Masjid</EndPointName>
+<EndPointLat>24.897985</EndPointLat>
+<EndPointLong>67.034913</EndPointLong>
+</EndPoint>
+
+</Vehicle>

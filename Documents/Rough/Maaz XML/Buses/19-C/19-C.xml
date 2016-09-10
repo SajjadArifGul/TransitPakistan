@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>19-C</VehicleName>
+<StartPoint>
+<StartPointName>Faqeer Colony</StartPointName>
+<StartPointLat>24.928753</StartPointLat>
+<StartPointLong>66.984281</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Mohajir Camp No 7</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No 2</BusStopName>
+<BusStopLat>24.903255</BusStopLat>
+<BusStopLong>67.034569</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabzi Mandi</BusStopName>
+<BusStopLat>24.995757</BusStopLat>
+<BusStopLong>67.157524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bahadurabad</BusStopName>
+<BusStopLat>24.882452</BusStopLat>
+<BusStopLong>67.069389</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tariq Road</BusStopName>
+<BusStopLat>24.872736</BusStopLat>
+<BusStopLong>67.060441</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Quaideen</BusStopName>
+<BusStopLat>24.866473</BusStopLat>
+<BusStopLong>67.053691</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Khudadad Colony</EndPointName>
+<EndPointLat>24.872753</EndPointLat>
+<EndPointLong>67.046524</EndPointLong>
+</EndPoint>
+
+</Vehicle>

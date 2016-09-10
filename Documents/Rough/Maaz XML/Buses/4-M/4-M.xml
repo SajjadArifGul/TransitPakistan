@@ -1,0 +1,91 @@
+<VehicleType>Bus</VehicleType>
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4-M</VehicleName>
+<StartPoint>
+<StartPointName>Nagan Chowrangi</StartPointName>
+<StartPointLat>24.963673</StartPointLat>
+<StartPointLong>67.06837</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulberg</BusStopName>
+<BusStopLat>24.942121</BusStopLat>
+<BusStopLong>67.070913</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Water Pump</BusStopName>
+<BusStopLat>24.933841</BusStopLat>
+<BusStopLong>66.956125</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karimabad</BusStopName>
+<BusStopLat>24.9217</BusStopLat>
+<BusStopLong>67.05835</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabil Wali Masjid</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Capri Cinema</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mansfield Street</BusStopName>
+<BusStopLat>24.864111</BusStopLat>
+<BusStopLong>67.029789</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Preedy Street</BusStopName>
+<BusStopLat>24.860695</BusStopLat>
+<BusStopLong>67.027404</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mir Karim Ali Talpur Road</BusStopName>
+<BusStopLat>24.859486</BusStopLat>
+<BusStopLong>67.031211</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Fleet Club</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Cantt Station</EndPointName>
+<EndPointLat>24.951982</EndPointLat>
+<EndPointLong>67.226224</EndPointLong>
+</EndPoint>
+</Vehicle>

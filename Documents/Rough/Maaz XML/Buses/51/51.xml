@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>51</VehicleName>
+<StartPoint>
+<StartPointName>Green H Ismail</StartPointName>
+<StartPointLat>24.878211</StartPointLat>
+<StartPointLong>67.180372</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Saleh Mohammad Goth</BusStopName>
+<BusStopLat>24.869619</BusStopLat>
+<BusStopLong>67.244139</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir City</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Highway</BusStopName>
+<BusStopLat>24.855349</BusStopLat>
+<BusStopLong>67.212084</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dalmia Cement Factory</BusStopName>
+<BusStopLat>24.90389</BusStopLat>
+<BusStopLong>67.102609</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Martin Road</BusStopName>
+<BusStopLat>24.891291</BusStopLat>
+<BusStopLong>67.047895</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Barness Street</EndPointName>
+<EndPointLat>24.866018</EndPointLat>
+<EndPointLong>67.016282</EndPointLong>
+</EndPoint>
+</Vehicle>

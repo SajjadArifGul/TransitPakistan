@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Mashriq Coach</VehicleName>
+<StartPoint>
+<StartPointName>Muzaffarabad Colony</StartPointName>
+<StartPointLat>24.826748</StartPointLat>
+<StartPointLong>67.226689</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gul Ahmed</BusStopName>
+<BusStopLat>24.840627</BusStopLat>
+<BusStopLong>67.221476</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mansehra Colony</BusStopName>
+<BusStopLat>24.856889</BusStopLat>
+<BusStopLong>67.197799</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Murtaza Chowrangi</BusStopName>
+<BusStopLat>24.851151</BusStopLat>
+<BusStopLong>67.181625</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Singer Chowrangi</BusStopName>
+<BusStopLat>24.846697</BusStopLat>
+<BusStopLong>67.159376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chamra Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lucky Star</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Empress Market</BusStopName>
+<BusStopLat>24.864089</BusStopLat>
+<BusStopLong>67.027842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>7th Day Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pakistan Quarters</BusStopName>
+<BusStopLat>24.881973</BusStopLat>
+<BusStopLong>67.023747</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bismillah Hotel</BusStopName>
+<BusStopLat>24.896655</BusStopLat>
+<BusStopLong>67.019667</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pak Colony</BusStopName>
+<BusStopLat>24.879495</BusStopLat>
+<BusStopLong>67.135266</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika</BusStopName>
+<BusStopLat>24.908913</BusStopLat>
+<BusStopLong>67.000475</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metroville</BusStopName>
+<BusStopLat>24.908587</BusStopLat>
+<BusStopLong>66.995823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frontier Mor</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mominabad</BusStopName>
+<BusStopLat>24.928852</BusStopLat>
+<BusStopLong>66.991355</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Faqeer Colony</EndPointName>
+<EndPointLat>24.928753</EndPointLat>
+<EndPointLong>66.984281</EndPointLong>
+</EndPoint>
+</Vehicle>

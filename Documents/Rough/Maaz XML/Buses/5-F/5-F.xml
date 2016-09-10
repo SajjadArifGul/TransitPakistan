@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>5-F</VehicleName>
+<StartPoint>
+<StartPointName>Al Noor Society</StartPointName>
+<StartPointLat>24.949025</StartPointLat>
+<StartPointLong>67.076991</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Water Pump</BusStopName>
+<BusStopLat>24.933841</BusStopLat>
+<BusStopLong>66.956125</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Aisha Manzil</BusStopName>
+<BusStopLat>24.92752</BusStopLat>
+<BusStopLong>67.064194</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>North Nazimabad</BusStopName>
+<BusStopLat>24.935421</BusStopLat>
+<BusStopLong>67.040502</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Al-Hyderi</BusStopName>
+<BusStopLat>24.834168</BusStopLat>
+<BusStopLong>67.153886</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Maidan</BusStopName>
+<BusStopLat>24.916626</BusStopLat>
+<BusStopLong>67.021762</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Exhibition</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Empress Market</BusStopName>
+<BusStopLat>24.864089</BusStopLat>
+<BusStopLong>67.027842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Keamari</EndPointName>
+<EndPointLat>24.82269</EndPointLat>
+<EndPointLong>66.983908</EndPointLong>
+</EndPoint>
+
+</Vehicle>

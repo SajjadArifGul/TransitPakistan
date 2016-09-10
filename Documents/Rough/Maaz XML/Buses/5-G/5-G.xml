@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>5-G</VehicleName>
+<StartPoint>
+<StartPointName>Power House</StartPointName>
+<StartPointLat>24.986827</StartPointLat>
+<StartPointLong>67.065875</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Al Noor Society</BusStopName>
+<BusStopLat>24.949025</BusStopLat>
+<BusStopLong>67.076991</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulberg</BusStopName>
+<BusStopLat>24.942121</BusStopLat>
+<BusStopLong>67.070913</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Water Pump</BusStopName>
+<BusStopLat>24.933841</BusStopLat>
+<BusStopLong>66.956125</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp Road</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Dehli Colony</EndPointName>
+<EndPointLat>24.905429</EndPointLat>
+<EndPointLong>67.107874</EndPointLong>
+</EndPoint>
+
+</Vehicle>

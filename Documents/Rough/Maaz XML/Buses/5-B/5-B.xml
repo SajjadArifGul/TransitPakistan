@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>5-B</VehicleName>
+<StartPoint>
+<StartPointName>Ittehad Town</StartPointName>
+<StartPointLat>24.975906</StartPointLat>
+<StartPointLong>66.945189</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chakiwara</BusStopName>
+<BusStopLat>24.867666</BusStopLat>
+<BusStopLong>66.998056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Haji Camp</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nishter Road</BusStopName>
+<BusStopLat>24.888391</BusStopLat>
+<BusStopLong>67.034313</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gharibabad</BusStopName>
+<BusStopLat>24.909909</BusStopLat>
+<BusStopLong>67.058002</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Sabzi Mandi</EndPointName>
+<EndPointLat>24.995757</EndPointLat>
+<EndPointLong>67.157524</EndPointLong>
+</EndPoint>
+
+</Vehicle>

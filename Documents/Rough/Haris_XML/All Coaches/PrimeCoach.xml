@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Prime Coach</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Hadeed</StartPointName>
+<StartPointLat>24.869999</StartPointLat>
+<StartPointLong>67.354256</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Steel Hospital</BusStopName>
+<BusStopLat>24.866439</BusStopLat>
+<BusStopLong>67.357811</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pipri</BusStopName>
+<BusStopLat>24.847733</BusStopLat>
+<BusStopLong>67.393544</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bhains Colony</BusStopName>
+<BusStopLat>24.828071</BusStopLat>
+<BusStopLong>67.278829</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Halt</BusStopName>
+<BusStopLat>24.88478</BusStopLat>
+<BusStopLong>67.175375</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Star Gate</BusStopName>
+<BusStopLat>24.887124</BusStopLat>
+<BusStopLong>67.155791</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>FTC</BusStopName>
+<BusStopLat>24.859191</BusStopLat>
+<BusStopLong>67.052575</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Fleet Club</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Mazar Abullah Shah Ghazi</EndPointName>
+<EndPointLat>24.870672</EndPointLat>
+<EndPointLong>67.195314</EndPointLong>
+</EndPoint>
+
+</Vehicle>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>45-A</VehicleName>
+<StartPoint>
+<StartPointName>Khokrapar No 4</StartPointName>
+<StartPointLat>24.90969</StartPointLat>
+<StartPointLong>67.216163</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Saudabad</BusStopName>
+<BusStopLat>24.889909</BusStopLat>
+<BusStopLong>67.192428</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquat Market</BusStopName>
+<BusStopLat>24.896067</BusStopLat>
+<BusStopLong>67.19688</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Square</BusStopName>
+<BusStopLat>24.890842</BusStopLat>
+<BusStopLong>67.197821</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mohabbat Nagar</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir No 15</BusStopName>
+<BusStopLat>24.885303</BusStopLat>
+<BusStopLong>67.184189</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Star Gate</BusStopName>
+<BusStopLat>24.887124</BusStopLat>
+<BusStopLong>67.155791</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road Station</BusStopName>
+<BusStopLat>24.88629</BusStopLat>
+<BusStopLong>67.125986</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drive-In-Cinema</BusStopName>
+<BusStopLat>24.864897</BusStopLat>
+<BusStopLong>67.020353</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad</BusStopName>
+<BusStopLat>24.911098</BusStopLat>
+<BusStopLong>67.028587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Naurus Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Ghani Chowrangi</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+</Vehicle>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>20</VehicleName>
+<StartPoint>
+<StartPointName>Clifton</StartPointName>
+<StartPointLat>24.824796</StartPointLat>
+<StartPointLong>67.031566</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Mohata Palace</BusStopName>
+<BusStopLat>24.814617</BusStopLat>
+<BusStopLong>67.0325</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>2 Talwar</BusStopName>
+<BusStopLat>24.833847</BusStopLat>
+<BusStopLong>67.033697</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Schon Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>3 Talwar</BusStopName>
+<BusStopLat>24.833847</BusStopLat>
+<BusStopLong>67.033697</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Clifton Bridge</BusStopName>
+<BusStopLat>24.840392</BusStopLat>
+<BusStopLong>67.032685</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bagh Jinnah</BusStopName>
+<BusStopLat>24.84732</BusStopLat>
+<BusStopLong>67.03273</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shaheen Complex</BusStopName>
+<BusStopLat>24.850815</BusStopLat>
+<BusStopLong>67.01943</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lucky Star</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela Chowk</BusStopName>
+<BusStopLat>24.89031</BusStopLat>
+<BusStopLong>67.031297</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Golimar</BusStopName>
+<BusStopLat>24.886023</BusStopLat>
+<BusStopLong>67.0129</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika</BusStopName>
+<BusStopLat>24.908913</BusStopLat>
+<BusStopLong>67.000475</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Site Police Station</BusStopName>
+<BusStopLat>24.903078</BusStopLat>
+<BusStopLong>67.002571</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Labour Square</BusStopName>
+<BusStopLat>24.832409</BusStopLat>
+<BusStopLong>67.244565</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hub River Road</BusStopName>
+<BusStopLat>24.929105</BusStopLat>
+<BusStopLong>66.942539</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sawat Colony</BusStopName>
+<BusStopLat>24.91036</BusStopLat>
+<BusStopLong>66.959336</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Police Training School</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ruby Cinema</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Saeedabad Naiabadi Sector-8</EndPointName>
+<EndPointLat>24.981389</EndPointLat>
+<EndPointLong>67.054278</EndPointLong>
+</EndPoint>
+</Vehicle>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>17-I</VehicleName>
+<StartPoint>
+<StartPointName>Ghouspak</StartPointName>
+<StartPointLat>24.816633</StartPointLat>
+<StartPointLong>67.160528</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Coast Guad</BusStopName>
+<BusStopLat>24.868671</BusStopLat>
+<BusStopLong>67.025718</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 2</BusStopName>
+<BusStopLat>24.846659</BusStopLat>
+<BusStopLong>67.143085</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nasir Colony</BusStopName>
+<BusStopLat>24.825333</BusStopLat>
+<BusStopLong>67.126143</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chamra Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Brookse Chowrangi</BusStopName>
+<BusStopLat>24.834538</BusStopLat>
+<BusStopLong>67.099871</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KPT Flyover Interchange</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Mor</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kalapul</BusStopName>
+<BusStopLat>24.850754</BusStopLat>
+<BusStopLong>67.052453</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lucky Star</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saddar</BusStopName>
+<BusStopLat>24.853185</BusStopLat>
+<BusStopLong>67.016673</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Islamia College</BusStopName>
+<BusStopLat>24.87974</BusStopLat>
+<BusStopLong>67.04618</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Chowrangi</BusStopName>
+<BusStopLat>24.885244</BusStopLat>
+<BusStopLong>67.056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>New Town</BusStopName>
+<BusStopLat>25.056136</BusStopLat>
+<BusStopLong>67.158544</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Agha Khan Hospital</BusStopName>
+<BusStopLat>24.8936</BusStopLat>
+<BusStopLong>67.071313</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Stadium</BusStopName>
+<BusStopLat>24.89421</BusStopLat>
+<BusStopLong>67.088063</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drive-In-Cinema</BusStopName>
+<BusStopLat>24.864897</BusStopLat>
+<BusStopLong>67.020353</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Aladin Park</BusStopName>
+<BusStopLat>24.912262</BusStopLat>
+<BusStopLong>67.105321</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kala Board</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Safari Park</BusStopName>
+<BusStopLat>24.9225</BusStopLat>
+<BusStopLong>67.111389</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jauhar Chowrangi</BusStopName>
+<BusStopLat>24.916366</BusStopLat>
+<BusStopLong>67.130264</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Pahalwan Goth</EndPointName>
+<EndPointLat>24.908958</EndPointLat>
+<EndPointLong>67.141038</EndPointLong>
+</EndPoint>
+</Vehicle>

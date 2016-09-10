@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>13</VehicleName>
+<StartPoint>
+<StartPointName>Drigh Colony</StartPointName>
+<StartPointLat>24.886156</StartPointLat>
+<StartPointLong>67.144052</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Iqbal Shaheed Road</BusStopName>
+<BusStopLat>24.859742</BusStopLat>
+<BusStopLong>67.037152</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Fleet Club</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Nursery</EndPointName>
+<EndPointLat>24.860307</EndPointLat>
+<EndPointLong>67.06198</EndPointLong>
+</EndPoint>
+</Vehicle>

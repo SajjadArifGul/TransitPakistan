@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Al-Noor Coach</VehicleName>
+<StartPoint>
+<StartPointName>Sohrab Goth</StartPointName>
+<StartPointLat>24.943902</StartPointLat>
+<StartPointLong>67.084417</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gulshan Chowrangi</BusStopName>
+<BusStopLat>24.924367</BusStopLat>
+<BusStopLong>67.091643</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>New Town</BusStopName>
+<BusStopLat>25.056136</BusStopLat>
+<BusStopLong>67.158544</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mazar-e-Quaid</BusStopName>
+<BusStopLat>24.875397</BusStopLat>
+<BusStopLong>67.040967</BusStopLong>
+</BusStop>
+<WayPoint>
+<WayPointLat>55555</WayPointLat>
+<WayPointLong>44444</WayPointLong>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Crown Cinema</BusStopName>
+<BusStopLat>24.86418</BusStopLat>
+<BusStopLong>66.986794</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>New Truck Stand</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mauripur</BusStopName>
+<BusStopLat>24.86803</BusStopLat>
+<BusStopLong>66.918385</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Younusabad</BusStopName>
+<BusStopLat>24.852252</BusStopLat>
+<BusStopLong>66.911684</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Sands Pit</EndPointName>
+<EndPointLat>24.830833</EndPointLat>
+<EndPointLong>66.925833</EndPointLong>
+</EndPoint>
+
+</Vehicle>

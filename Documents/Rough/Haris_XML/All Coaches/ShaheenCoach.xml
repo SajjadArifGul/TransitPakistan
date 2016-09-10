@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Shaheen Coach</VehicleName>
+<StartPoint>
+<StartPointName>New Sabzi Mandi</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gulshan-e-Roofi</BusStopName>
+<BusStopLat>24.914597</BusStopLat>
+<BusStopLong>67.092896</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Golden City</BusStopName>
+<BusStopLat>24.820278</BusStopLat>
+<BusStopLong>67.118929</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Maroora Goth</BusStopName>
+<BusStopLat>24.950503</BusStopLat>
+<BusStopLong>67.141853</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Safoora Goth</BusStopName>
+<BusStopLat>24.939342</BusStopLat>
+<BusStopLong>67.156173</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karachi University</BusStopName>
+<BusStopLat>24.939151</BusStopLat>
+<BusStopLong>67.113476</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Purani Sabzi Mandi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Islamia College</BusStopName>
+<BusStopLat>24.87974</BusStopLat>
+<BusStopLong>67.04618</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mazar-e-Quaid</BusStopName>
+<BusStopLat>24.875397</BusStopLat>
+<BusStopLong>67.040967</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth Market</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Kharadar</BusStopName>
+<BusStopLat>24.85039</BusStopLat>
+<BusStopLong>66.995078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Agra Taj Colony</BusStopName>
+<BusStopLat>24.87143</BusStopLat>
+<BusStopLong>66.9F82419</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Gulbai</EndPointName>
+<EndPointLat>24.876422</EndPointLat>
+<EndPointLong>66.967899</EndPointLong>
+</EndPoint>
+
+</Vehicle>

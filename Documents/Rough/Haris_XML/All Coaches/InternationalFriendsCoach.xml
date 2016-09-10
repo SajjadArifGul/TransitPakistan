@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>International Friends Coach</VehicleName>
+<StartPoint>
+<StartPointName>Rasheedabad</StartPointName>
+<StartPointLat>24.908677</StartPointLat>
+<StartPointLong>66.970505</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Labour Square</BusStopName>
+<BusStopLat>24.832409</BusStopLat>
+<BusStopLong>67.244565</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>College Turning</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Site Police Station</BusStopName>
+<BusStopLat>24.903078</BusStopLat>
+<BusStopLong>67.002571</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Valika Mills</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad</BusStopName>
+<BusStopLat>24.911098</BusStopLat>
+<BusStopLong>67.028587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gharibabad</BusStopName>
+<BusStopLat>24.909909</BusStopLat>
+<BusStopLong>67.058002</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Stadium</BusStopName>
+<BusStopLat>24.89421</BusStopLat>
+<BusStopLong>67.088063</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>PAF Airport</BusStopName>
+<BusStopLat>24.896847</BusStopLat>
+<BusStopLong>67.172575</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bhains Colony</BusStopName>
+<BusStopLat>24.828071</BusStopLat>
+<BusStopLong>67.278829</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pipri</BusStopName>
+<BusStopLat>24.847733</BusStopLat>
+<BusStopLong>67.393544</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Gulshan-e-Hadeed</EndPointName>
+<EndPointLat>24.869999</EndPointLat>
+<EndPointLong>67.354256</EndPointLong>
+</EndPoint>
+
+</Vehicle>

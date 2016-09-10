@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Shama Hasan Zai Coach</VehicleName>
+<StartPoint>
+<StartPointName>Manghopir</StartPointName>
+<StartPointLat>24.946496</StartPointLat>
+<StartPointLong>67.021816</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Baradari</BusStopName>
+<BusStopLat>24.82519</BusStopLat>
+<BusStopLong>67.141597</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>D.C Office</BusStopName>
+<BusStopLat>24.942353</BusStopLat>
+<BusStopLong>67.034963</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sabzi Mandi</BusStopName>
+<BusStopLat>24.995757</BusStopLat>
+<BusStopLong>67.157524</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Millat</BusStopName>
+<BusStopLat>24.886899</BusStopLat>
+<BusStopLong>67.12636</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Society Qabrastan</BusStopName>
+<BusStopLat>24.821412</BusStopLat>
+<BusStopLong>67.156563</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gora Qabrastan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence</BusStopName>
+<BusStopLat>24.94999</BusStopLat>
+<BusStopLong>67.186591</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 1</BusStopName>
+<BusStopLat>24.841243</BusStopLat>
+<BusStopLong>67.155245</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 2</BusStopName>
+<BusStopLat>24.846659</BusStopLat>
+<BusStopLong>67.143085</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 3</BusStopName>
+<BusStopLat>24.846946</BusStopLat>
+<BusStopLong>67.143106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi No 6</BusStopName>
+<BusStopLat>24.820252</BusStopLat>
+<BusStopLong>67.135961</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Quaidabad</EndPointName>
+<EndPointLat>24.858407</EndPointLat>
+<EndPointLong>67.211702</EndPointLong>
+</EndPoint>
+
+</Vehicle>

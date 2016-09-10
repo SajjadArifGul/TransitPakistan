@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Azmat Coach</VehicleName>
+<StartPoint>
+<StartPointName>Ittehad Town</StartPointName>
+<StartPointLat>24.975906</StartPointLat>
+<StartPointLong>66.945189</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Orangi No 11 A½</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Islam Chowk</BusStopName>
+<BusStopLat>24.955202</BusStopLat>
+<BusStopLong>66.99015</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 5</BusStopName>
+<BusStopLat>24.975271</BusStopLat>
+<BusStopLong>66.986496</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras Chowk</BusStopName>
+<BusStopLat>24.994121</BusStopLat>
+<BusStopLong>66.990652</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abbasi Shaheed Hospital</BusStopName>
+<BusStopLat>24.920747</BusStopLat>
+<BusStopLong>67.029564</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad Petrol Pump</BusStopName>
+<BusStopLat>24.910989</BusStopLat>
+<BusStopLong>67.030751</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Karsaz</BusStopName>
+<BusStopLat>24.889054</BusStopLat>
+<BusStopLong>67.100078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir City</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hospital Chorangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Labour Square</BusStopName>
+<BusStopLat>24.832409</BusStopLat>
+<BusStopLong>67.244565</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Behar Colony</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+
+</Vehicle>

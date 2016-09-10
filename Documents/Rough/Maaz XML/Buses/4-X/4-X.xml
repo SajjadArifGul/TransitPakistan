@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>4-X</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Chowrangi</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Yousuf Goth</BusStopName>
+<BusStopLat>24.956024</BusStopLat>
+<BusStopLong>66.934765</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Allahwali New Karachi No.5</BusStopName>
+<BusStopLat>25.00485</BusStopLat>
+<BusStopLong>67.076526</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Godhra</BusStopName>
+<BusStopLat>24.986271</BusStopLat>
+<BusStopLong>67.078293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Golimar</BusStopName>
+<BusStopLat>24.886023</BusStopLat>
+<BusStopLong>67.0129</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ranchore Line</BusStopName>
+<BusStopLat>24.858693</BusStopLat>
+<BusStopLong>67.006153</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Civil Hospital</BusStopName>
+<BusStopLat>24.859014</BusStopLat>
+<BusStopLong>67.010119</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>City Court</BusStopName>
+<BusStopLat>25.048191</BusStopLat>
+<BusStopLong>67.132822</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Juna Market</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+
+</Vehicle>

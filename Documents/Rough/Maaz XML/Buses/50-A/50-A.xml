@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>50-A</VehicleName>
+<StartPoint>
+<StartPointName>Hashim Goth</StartPointName>
+<StartPointLat>24.926697</StartPointLat>
+<StartPointLong>67.260207</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Memon Goth</BusStopName>
+<BusStopLat>24.916277</BusStopLat>
+<BusStopLong>67.252014</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir City</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>National Highway</BusStopName>
+<BusStopLat>24.855349</BusStopLat>
+<BusStopLong>67.212084</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dalmia Cement Factory</BusStopName>
+<BusStopLat>24.90389</BusStopLat>
+<BusStopLong>67.102609</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Road</BusStopName>
+<BusStopLat>24.88712</BusStopLat>
+<BusStopLong>67.053007</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp Road</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Lee Market</EndPointName>
+<EndPointLat>24.867994</EndPointLat>
+<EndPointLong>67.01739</EndPointLong>
+</EndPoint>
+
+</Vehicle>

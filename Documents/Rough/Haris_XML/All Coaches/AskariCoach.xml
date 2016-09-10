@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Askari Coach</VehicleName>
+<StartPoint>
+<StartPointName>Haji Jikhria</StartPointName>
+<StartPointLat>24.854593</StartPointLat>
+<StartPointLong>67.00169</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Asif Square</BusStopName>
+<BusStopLat>24.950203</BusStopLat>
+<BusStopLong>67.090768</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Cantt</BusStopName>
+<BusStopLat>24.925616</BusStopLat>
+<BusStopLong>67.202801</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Bazar</BusStopName>
+<BusStopLat>24.927663</BusStopLat>
+<BusStopLong>67.20509</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Model Colony</BusStopName>
+<BusStopLat>24.905761</BusStopLat>
+<BusStopLong>67.18647</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Avenue</BusStopName>
+<BusStopLat>24.901161</BusStopLat>
+<BusStopLong>67.181055</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Halt</BusStopName>
+<BusStopLat>24.88478</BusStopLat>
+<BusStopLong>67.175375</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nursery</BusStopName>
+<BusStopLat>24.860307</BusStopLat>
+<BusStopLong>67.06198</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gora Qabrastan</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Hospital</BusStopName>
+<BusStopLat>24.887155</BusStopLat>
+<BusStopLong>67.029785</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Askari Apartment</BusStopName>
+<BusStopLat>24.846393</BusStopLat>
+<BusStopLong>67.040688</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Cantt Station</EndPointName>
+<EndPointLat>24.951982</EndPointLat>
+<EndPointLong>67.226224</EndPointLong>
+</EndPoint>
+</Vehicle>

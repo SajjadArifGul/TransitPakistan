@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>7-D</VehicleName>
+<StartPoint>
+<StartPointName>Mohajir Camp</StartPointName>
+<StartPointLat>24.916325</StartPointLat>
+<StartPointLong>66.972367</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Labour Square</BusStopName>
+<BusStopLat>24.832409</BusStopLat>
+<BusStopLong>67.244565</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ghani Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mills Area</BusStopName>
+<BusStopLat>24.884517</BusStopLat>
+<BusStopLong>67.02786</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden Road</BusStopName>
+<BusStopLat>24.857785</BusStopLat>
+<BusStopLong>67.028938</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Preedy Street</BusStopName>
+<BusStopLat>24.860695</BusStopLat>
+<BusStopLong>67.027404</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Regal</BusStopName>
+<BusStopLat>24.860531</BusStopLat>
+<BusStopLong>67.024136</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Sultanabad</EndPointName>
+<EndPointLat>24.839838</EndPointLat>
+<EndPointLong>67.018534</EndPointLong>
+</EndPoint>
+
+</Vehicle>

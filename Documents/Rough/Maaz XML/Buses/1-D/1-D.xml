@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>1-D</VehicleName>
+<StartPoint>
+<StartPointName>Ittehad Town</StartPointName>
+<StartPointLat>24.975906</StartPointLat>
+<StartPointLong>66.945189</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Torri Chowk Sector Ii</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi Township</BusStopName>
+<BusStopLat>24.950082</BusStopLat>
+<BusStopLong>66.992844</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras Colony</BusStopName>
+<BusStopLat>24.928098</BusStopLat>
+<BusStopLong>66.979704</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pathan Colony</BusStopName>
+<BusStopLat>24.856481</BusStopLat>
+<BusStopLong>67.341425</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad</BusStopName>
+<BusStopLat>24.903757</BusStopLat>
+<BusStopLong>67.052416</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Post Office</BusStopName>
+<BusStopLat>24.935695</BusStopLat>
+<BusStopLong>67.001454</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jehangir Road</BusStopName>
+<BusStopLat>24.886507</BusStopLat>
+<BusStopLong>67.0415</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Empress Market</BusStopName>
+<BusStopLat>24.864089</BusStopLat>
+<BusStopLong>67.027842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lilly Bridge</BusStopName>
+<BusStopLat>24.840062</BusStopLat>
+<BusStopLong>67.03687</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chaudry Khaliq-u-Zaman Road</BusStopName>
+<BusStopLat>24.834981</BusStopLat>
+<BusStopLong>67.037457</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Punjab Colony</BusStopName>
+<BusStopLat>24.830821</BusStopLat>
+<BusStopLong>67.047204</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Defence Society</BusStopName>
+<BusStopLat>24.839726</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qayyumabad</BusStopName>
+<BusStopLat>24.825724</BusStopLat>
+<BusStopLong>67.080715</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bhitai Colony</BusStopName>
+<BusStopLat>24.810914</BusStopLat>
+<BusStopLong>67.110504</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Allahwala Town</EndPointName>
+<EndPointLat>24.82772</EndPointLat>
+<EndPointLong>67.110504</EndPointLong>
+</EndPoint>
+
+</Vehicle>

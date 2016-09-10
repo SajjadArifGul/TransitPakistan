@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>CNG Bus</VehicleType>
+<VehicleName>CNG-2</VehicleName>
+<StartPoint>
+<StartPointName>Surjani Town</StartPointName>
+<StartPointLat>25.035399</StartPointLat>
+<StartPointLong>67.069055</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Baradari</BusStopName>
+<BusStopLat>24.82519</BusStopLat>
+<BusStopLong>67.141597</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Buffer Zone</BusStopName>
+<BusStopLat>24.958198</BusStopLat>
+<BusStopLong>67.0688</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Rashid Minhas Road</BusStopName>
+<BusStopLat>24.919097</BusStopLat>
+<BusStopLong>67.095842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulshan-e-Iqbal Chowrangi</BusStopName>
+<BusStopLat>24.885276</BusStopLat>
+<BusStopLong>67.056612</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Millenium Mall</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Natha Khan Goth</BusStopName>
+<BusStopLat>24.882791</BusStopLat>
+<BusStopLong>67.13508</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Korangi Industrial Area</BusStopName>
+<BusStopLat>24.849999</BusStopLat>
+<BusStopLong>67.135825</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Korangi Crossing</EndPointName>
+<EndPointLat>24.823403</EndPointLat>
+<EndPointLong>67.093206</EndPointLong>
+</EndPoint>
+</Vehicle>

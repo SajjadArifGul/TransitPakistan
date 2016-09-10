@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>National Coach</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Bahar</StartPointName>
+<StartPointLat>24.976908</StartPointLat>
+<StartPointLong>66.994333</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Orangi No 1</BusStopName>
+<BusStopLat>24.975825</BusStopLat>
+<BusStopLong>66.987559</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qasba Colony</BusStopName>
+<BusStopLat>24.942563</BusStopLat>
+<BusStopLong>67.024119</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras Chowk</BusStopName>
+<BusStopLat>24.994121</BusStopLat>
+<BusStopLong>66.990652</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Paposh Nagar</BusStopName>
+<BusStopLat>24.923067</BusStopLat>
+<BusStopLong>67.020396</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad</BusStopName>
+<BusStopLat>24.911098</BusStopLat>
+<BusStopLong>67.028587</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>University Road</BusStopName>
+<BusStopLat>24.92894</BusStopLat>
+<BusStopLong>67.114351</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Rashid Minhas Road</BusStopName>
+<BusStopLat>24.919097</BusStopLat>
+<BusStopLong>67.095842</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road</BusStopName>
+<BusStopLat>24.884633</BusStopLat>
+<BusStopLong>67.129122</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah-e-Faisal</BusStopName>
+<BusStopLat>24.868332</BusStopLat>
+<BusStopLong>67.085078</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Avenue</BusStopName>
+<BusStopLat>24.901161</BusStopLat>
+<BusStopLong>67.181055</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Model Colony</BusStopName>
+<BusStopLat>24.905761</BusStopLat>
+<BusStopLong>67.18647</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saudabad</BusStopName>
+<BusStopLat>24.889909</BusStopLat>
+<BusStopLong>67.192428</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khokrapar</BusStopName>
+<BusStopLat>24.903643</BusStopLat>
+<BusStopLong>67.212538</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Chaman Colony</EndPointName>
+<EndPointLat>24.934949</EndPointLat>
+<EndPointLong>67.14048</EndPointLong>
+</EndPoint>
+
+</Vehicle>

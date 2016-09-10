@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>22-A</VehicleName>
+<StartPoint>
+<StartPointName>Rasheedabad</StartPointName>
+<StartPointLat>24.908677</StartPointLat>
+<StartPointLong>66.970505</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Bihar Colony</BusStopName>
+<BusStopLat>24.872975</BusStopLat>
+<BusStopLong>66.987632</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ghani Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chakiwara</BusStopName>
+<BusStopLat>24.867666</BusStopLat>
+<BusStopLong>66.998056</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lee Market</BusStopName>
+<BusStopLat>24.867994</BusStopLat>
+<BusStopLong>67.01739</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Herchandrai Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp Road</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nishter Road</BusStopName>
+<BusStopLat>24.888391</BusStopLat>
+<BusStopLong>67.034313</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahrah Iraq</BusStopName>
+<BusStopLat>24.859384</BusStopLat>
+<BusStopLong>67.028474</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Masjid Khizra</BusStopName>
+<BusStopLat>24.878189</BusStopLat>
+<BusStopLong>67.147276</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Cantt Station</EndPointName>
+<EndPointLat>24.951982</EndPointLat>
+<EndPointLong>67.226224</EndPointLong>
+</EndPoint>
+
+</Vehicle>

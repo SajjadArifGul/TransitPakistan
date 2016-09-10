@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>7</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Iqbal</StartPointName>
+<StartPointLat>24.929374</StartPointLat>
+<StartPointLong>67.128448</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Samdani Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulshan-e-Iqbal Chowrangi</BusStopName>
+<BusStopLat>24.885276</BusStopLat>
+<BusStopLong>67.056612</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shaheed Rashid Minhas Road</BusStopName>
+<BusStopLat>24.914372</BusStopLat>
+<BusStopLong>67.101292</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>University Road</BusStopName>
+<BusStopLat>24.92894</BusStopLat>
+<BusStopLong>67.114351</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad Post Office</BusStopName>
+<BusStopLat>24.8507</BusStopLat>
+<BusStopLong>67.01267</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>M.A Jinnah Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Street</BusStopName>
+<BusStopLat>24.849957</BusStopLat>
+<BusStopLong>67.035598</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Preedy Street</BusStopName>
+<BusStopLat>24.860695</BusStopLat>
+<BusStopLong>67.027404</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Frere Road</BusStopName>
+<BusStopLat>24.856559</BusStopLat>
+<BusStopLong>67.015851</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Burns Road</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Tower</EndPointName>
+<EndPointLat>24.876961</EndPointLat>
+<EndPointLong>67.059828</EndPointLong>
+</EndPoint>
+</Vehicle>

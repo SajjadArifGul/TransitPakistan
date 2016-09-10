@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>21</VehicleName>
+<StartPoint>
+<StartPointName>Lucky Star</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Shahrah Iraq</BusStopName>
+<BusStopLat>24.859384</BusStopLat>
+<BusStopLong>67.028474</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Mir Karim Ali Talpur Road</BusStopName>
+<BusStopLat>24.859486</BusStopLat>
+<BusStopLong>67.031211</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Dockyard</EndPointName>
+<EndPointLat>24.841648</EndPointLat>
+<EndPointLong>66.976878</EndPointLong>
+</EndPoint>
+</Vehicle>

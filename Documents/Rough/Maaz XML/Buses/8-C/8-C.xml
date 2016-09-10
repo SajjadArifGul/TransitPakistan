@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>8-C</VehicleName>
+<StartPoint>
+<StartPointName>P.I.B Colony</StartPointName>
+<StartPointLat>24.894681</StartPointLat>
+<StartPointLong>67.056885</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Hyderabad Colony</BusStopName>
+<BusStopLat>24.88551</BusStopLat>
+<BusStopLong>67.054278</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Soldier Bazar</BusStopName>
+<BusStopLat>24.871706</BusStopLat>
+<BusStopLong>67.028376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lilly Road</BusStopName>
+<BusStopLat>24.837423</BusStopLat>
+<BusStopLong>67.036818</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden Road</BusStopName>
+<BusStopLat>24.857785</BusStopLat>
+<BusStopLong>67.028938</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Napier Road</BusStopName>
+<BusStopLat>24.91914</BusStopLat>
+<BusStopLong>66.962109</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Keamari</EndPointName>
+<EndPointLat>24.82269</EndPointLat>
+<EndPointLong>66.983908</EndPointLong>
+</EndPoint>
+
+</Vehicle>

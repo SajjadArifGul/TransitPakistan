@@ -1,0 +1,9 @@
+
+have some answers about databas setup : http://stackoverflow.com/questions/1871507/how-to-design-this-bus-stations-database
+
+http://www.databaseanswers.org/ : website for sample database & info
+
+some ajeeb jawabs : http://www.coderanch.com/t/640723/java/java/Bus-Route-Application
+
+sample app complete : https://github.com/neogeomat/yatayat
+

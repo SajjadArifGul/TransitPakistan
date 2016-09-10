@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>5-A</VehicleName>
+<StartPoint>
+<StartPointName>Ack Ack School</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Gizri</BusStopName>
+<BusStopLat>24.82112</BusStopLat>
+<BusStopLong>67.04348</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Clifton</BusStopName>
+<BusStopLat>24.824796</BusStopLat>
+<BusStopLong>67.031566</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sarwar Shaheed Road</BusStopName>
+<BusStopLat>24.855264</BusStopLat>
+<BusStopLong>67.026132</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bandar Road</BusStopName>
+<BusStopLat>24.860787</BusStopLat>
+<BusStopLong>67.017802</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Tower</BusStopName>
+<BusStopLat>24.876961</BusStopLat>
+<BusStopLong>67.059828</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qabrastan</BusStopName>
+<BusStopLat>24.821412</BusStopLat>
+<BusStopLong>67.156563</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Chandni Chowk</BusStopName>
+<BusStopLat>24.890454</BusStopLat>
+<BusStopLong>67.063214</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ruby Cinema</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Saeedabad</EndPointName>
+<EndPointLat>24.90935</EndPointLat>
+<EndPointLong>66.966038</EndPointLong>
+</EndPoint>
+
+</Vehicle>

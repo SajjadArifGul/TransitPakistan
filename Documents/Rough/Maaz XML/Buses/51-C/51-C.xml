@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>51-C</VehicleName>
+<StartPoint>
+<StartPointName>Chamra Chowrangi</StartPointName>
+<StartPointLat>24.861462</StartPointLat>
+<StartPointLong>67.009939</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Vita Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bilal Chowrangi</BusStopName>
+<BusStopLat>24.842975</BusStopLat>
+<BusStopLong>67.142006</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Singer Chowrangi</BusStopName>
+<BusStopLat>24.846697</BusStopLat>
+<BusStopLong>67.159376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Murtaza Chowrangi</BusStopName>
+<BusStopLat>24.851151</BusStopLat>
+<BusStopLong>67.181625</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Dawood Chowrangi</BusStopName>
+<BusStopLat>24.879487</BusStopLat>
+<BusStopLong>67.065318</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Quaidabad</BusStopName>
+<BusStopLat>24.858407</BusStopLat>
+<BusStopLong>67.211702</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Murghi Khana Malir</BusStopName>
+<BusStopLat>24.902885</BusStopLat>
+<BusStopLong>67.197579</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Malir Halt</BusStopName>
+<BusStopLat>24.88478</BusStopLat>
+<BusStopLong>67.175375</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jinnah Airport Entrance</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Star Gate</BusStopName>
+<BusStopLat>24.887124</BusStopLat>
+<BusStopLong>67.155791</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Drigh Road Station</BusStopName>
+<BusStopLat>24.88629</BusStopLat>
+<BusStopLong>67.125986</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Millenium Mall</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jauhar Mor</BusStopName>
+<BusStopLat>24.904409</BusStopLat>
+<BusStopLong>67.113611</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Aladin Park</BusStopName>
+<BusStopLat>24.912262</BusStopLat>
+<BusStopLong>67.105321</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulshan-e-Iqbal Chowrangi</BusStopName>
+<BusStopLat>24.885276</BusStopLat>
+<BusStopLong>67.056612</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Moti Mehal</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Fazal Mills</BusStopName>
+<BusStopLat>24.937908</BusStopLat>
+<BusStopLong>67.085664</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Al-Asif Square</BusStopName>
+<BusStopLat>24.950203</BusStopLat>
+<BusStopLong>67.090768</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khuda Ki Basti</BusStopName>
+<BusStopLat>25.033542</BusStopLat>
+<BusStopLong>67.089472</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>New Sabzi Mandi</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+
+</Vehicle>

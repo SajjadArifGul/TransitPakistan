@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>CNG Bus</VehicleType>
+<VehicleName>CNG-1</VehicleName>
+<StartPoint>
+<StartPointName>Tower</StartPointName>
+<StartPointLat>24.876961</StartPointLat>
+<StartPointLong>67.059828</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>City Post Office</BusStopName>
+<BusStopLat>24.935695</BusStopLat>
+<BusStopLong>67.001454</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pakistan Chowk</BusStopName>
+<BusStopLat>24.928267</BusStopLat>
+<BusStopLong>66.967289</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jama Cloth</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Plaza</BusStopName>
+<BusStopLat>24.864436</BusStopLat>
+<BusStopLong>67.022819</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>7th Day Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Numaish</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gurumandir</BusStopName>
+<BusStopLat>24.880809</BusStopLat>
+<BusStopLong>67.039467</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lasbela</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad Chowrangi No 1</BusStopName>
+<BusStopLat>24.882233</BusStopLat>
+<BusStopLong>67.067268</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nazimabad No 7</BusStopName>
+<BusStopLat>24.955073</BusStopLat>
+<BusStopLong>67.065432</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KDA Chowrangi</BusStopName>
+<BusStopLat>24.931101</BusStopLat>
+<BusStopLong>67.037947</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shadman Town</BusStopName>
+<BusStopLat>24.962397</BusStopLat>
+<BusStopLong>67.054055</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>U.P Mour</BusStopName>
+<BusStopLat>24.853852</BusStopLat>
+<BusStopLong>67.010827</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Saleem Centre</BusStopName>
+<BusStopLat>24.853271</BusStopLat>
+<BusStopLong>67.005087</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Power House</BusStopName>
+<BusStopLat>24.986827</BusStopLat>
+<BusStopLong>67.065875</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Two Minutes Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>4-K Chowrangi</EndPointName>
+<EndPointLat>24.837874</EndPointLat>
+<EndPointLong>67.181787</EndPointLong>
+</EndPoint>
+</Vehicle>

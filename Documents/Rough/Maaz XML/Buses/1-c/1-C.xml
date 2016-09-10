@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+    <VehicleType>Bus</VehicleType>
+    <VehicleName>1-C</VehicleName>
+    <StartPoint>
+        <StartPointName>M.P.R Colony</StartPointName>
+        <StartPointLat>24.82806</StartPointLat>
+        <StartPointLong>67.054423</StartPointLong>
+    </StartPoint>
+    <BusStop>
+        <BusStopName>Qasba Colony</BusStopName>
+        <BusStopLat>24.942563</BusStopLat>
+        <BusStopLong>67.024119</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Pathan Colony</BusStopName>
+        <BusStopLat>24.856481</BusStopLat>
+        <BusStopLong>67.341425</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>S.I.T.E</BusStopName>
+        <BusStopLat>24.894111</BusStopLat>
+        <BusStopLong>66.992844</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Habib Bank</BusStopName>
+        <BusStopLat>24.85</BusStopLat>
+        <BusStopLong>67</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Bara Board</BusStopName>
+        <BusStopLat>24.861462</BusStopLat>
+        <BusStopLong>67.009939</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Bismillah Hotel</BusStopName>
+        <BusStopLat>24.896655</BusStopLat>
+        <BusStopLong>67.019667</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Old Golimar</BusStopName>
+        <BusStopLat>24.886023</BusStopLat>
+        <BusStopLong>67.0129</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Garden Road</BusStopName>
+        <BusStopLat>24.857785</BusStopLat>
+        <BusStopLong>67.028938</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Plaza</BusStopName>
+        <BusStopLat>24.864436</BusStopLat>
+        <BusStopLong>67.022819</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Regal</BusStopName>
+        <BusStopLat>24.860531</BusStopLat>
+        <BusStopLong>67.024136</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>City Station</BusStopName>
+        <BusStopLat>24.848252</BusStopLat>
+        <BusStopLong>67.007271</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Shahra-e-Liaquat</BusStopName>
+        <BusStopLat>24.856559</BusStopLat>
+        <BusStopLong>67.015851</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Custom House</BusStopName>
+        <BusStopLat>24.861462</BusStopLat>
+        <BusStopLong>67.009939</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Tower</BusStopName>
+        <BusStopLat>24.876961</BusStopLat>
+        <BusStopLong>67.059828</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Mari Pure Road</BusStopName>
+        <BusStopLat>24.84934</BusStopLat>
+        <BusStopLong>66.804763</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Gulbai</BusStopName>
+        <BusStopLat>24.876422</BusStopLat>
+        <BusStopLong>66.967899</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>Grace Mari Pure</BusStopName>
+        <BusStopLat>24.861462</BusStopLat>
+        <BusStopLong>67.009939</BusStopLong>
+    </BusStop>
+    <BusStop>
+        <BusStopName>500 Quarters</BusStopName>
+        <BusStopLat>24.830717</BusStopLat>
+        <BusStopLong>67.244938</BusStopLong>
+    </BusStop>
+    <EndPoint>
+        <EndPointName>Sultanabad</EndPointName>
+        <EndPointLat>24.839838</EndPointLat>
+        <EndPointLong>67.018534</EndPointLong>
+    </EndPoint>
+</Vehicle>

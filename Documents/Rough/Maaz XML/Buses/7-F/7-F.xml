@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>7-F</VehicleName>
+<StartPoint>
+<StartPointName>Gulshan-e-Iqbal</StartPointName>
+<StartPointLat>24.929374</StartPointLat>
+<StartPointLong>67.128448</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Hassan Square</BusStopName>
+<BusStopLat>24.902212</BusStopLat>
+<BusStopLong>67.073859</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gharibabad</BusStopName>
+<BusStopLat>24.909909</BusStopLat>
+<BusStopLong>67.058002</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad No 10</BusStopName>
+<BusStopLat>24.863532</BusStopLat>
+<BusStopLong>67.091723</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Liaquatabad Post Office</BusStopName>
+<BusStopLat>24.8507</BusStopLat>
+<BusStopLong>67.01267</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Road</BusStopName>
+<BusStopLat>24.859007</BusStopLat>
+<BusStopLong>67.030297</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Old Golimar</BusStopName>
+<BusStopLat>24.886023</BusStopLat>
+<BusStopLong>67.0129</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ranchore Line</BusStopName>
+<BusStopLat>24.858693</BusStopLat>
+<BusStopLong>67.006153</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jubliee Cinema</BusStopName>
+<BusStopLat>24.864897</BusStopLat>
+<BusStopLong>67.020353</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>West Wharf</EndPointName>
+<EndPointLat>24.845758</EndPointLat>
+<EndPointLong>66.979441</EndPointLong>
+</EndPoint>
+
+</Vehicle>

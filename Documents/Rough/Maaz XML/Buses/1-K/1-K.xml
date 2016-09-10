@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>1-K</VehicleName>
+<StartPoint>
+<StartPointName>Tower</StartPointName>
+<StartPointLat>24.876961</StartPointLat>
+<StartPointLong>67.059828</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Plaza</BusStopName>
+<BusStopLat>24.864436</BusStopLat>
+<BusStopLong>67.022819</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pakistan Quarters</BusStopName>
+<BusStopLat>24.881973</BusStopLat>
+<BusStopLong>67.023747</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bara Road</BusStopName>
+<BusStopLat>24.859007</BusStopLat>
+<BusStopLong>67.030297</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras</BusStopName>
+<BusStopLat>24.994121</BusStopLat>
+<BusStopLong>66.990652</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qasba Mor</BusStopName>
+<BusStopLat>24.964948</BusStopLat>
+<BusStopLong>67.057388</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 1</BusStopName>
+<BusStopLat>24.975825</BusStopLat>
+<BusStopLong>66.987559</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Metro Cinema</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<EndPoint>
+<EndPointName>Orangi Sector No. 5</EndPointName>
+<EndPointLat>24.938361</EndPointLat>
+<EndPointLong>67.002524</EndPointLong>
+</EndPoint>
+
+</Vehicle>

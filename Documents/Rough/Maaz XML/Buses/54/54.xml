@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>54</VehicleName>
+<StartPoint>
+<StartPointName>National Highway</StartPointName>
+<StartPointLat>24.855349</StartPointLat>
+<StartPointLong>67.212084</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Dalmia Cement Factory</BusStopName>
+<BusStopLat>24.90389</BusStopLat>
+<BusStopLong>67.102609</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jail Martin Road</BusStopName>
+<BusStopLat>24.891291</BusStopLat>
+<BusStopLong>67.047895</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Teen Hatti</BusStopName>
+<BusStopLat>24.893238</BusStopLat>
+<BusStopLong>67.043817</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lawrence Road</BusStopName>
+<BusStopLat>24.885443</BusStopLat>
+<BusStopLong>67.030459</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Haji Camp Road</BusStopName>
+<BusStopLat>24.840905</BusStopLat>
+<BusStopLong>67.014368</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Barness Street</BusStopName>
+<BusStopLat>24.866018</BusStopLat>
+<BusStopLong>67.016282</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Harchandrai Road</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+</Vehicle>

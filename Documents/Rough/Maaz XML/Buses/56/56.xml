@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>56</VehicleName>
+<StartPoint>
+<StartPointName>Hub River Road</StartPointName>
+<StartPointLat>24.929105</StartPointLat>
+<StartPointLong>66.942539</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Baldia Town</BusStopName>
+<BusStopLat>24.938096</BusStopLat>
+<BusStopLong>66.961906</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Chakiwara</EndPointName>
+<EndPointLat>24.867666</EndPointLat>
+<EndPointLong>66.998056</EndPointLong>
+</EndPoint>
+</Vehicle>

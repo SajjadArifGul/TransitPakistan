@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>25-D</VehicleName>
+<StartPoint>
+<StartPointName>Germany School</StartPointName>
+<StartPointLat>24.968451</StartPointLat>
+<StartPointLong>66.992523</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Shah Faisal Chowk</BusStopName>
+<BusStopLat>24.959969</BusStopLat>
+<BusStopLong>66.99501</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 14</BusStopName>
+<BusStopLat>24.959369</BusStopLat>
+<BusStopLong>66.997661</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 13</BusStopName>
+<BusStopLat>24.974919</BusStopLat>
+<BusStopLong>66.984363</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qater Hospital</BusStopName>
+<BusStopLat>24.944045</BusStopLat>
+<BusStopLong>67.012763</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Orangi No 1</BusStopName>
+<BusStopLat>24.975825</BusStopLat>
+<BusStopLong>66.987559</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Qasba Mor</BusStopName>
+<BusStopLat>24.964948</BusStopLat>
+<BusStopLong>67.057388</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Banaras Chowk</BusStopName>
+<BusStopLat>24.994121</BusStopLat>
+<BusStopLong>66.990652</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah College</BusStopName>
+<BusStopLat>24.928821</BusStopLat>
+<BusStopLong>67.024106</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Board Office</BusStopName>
+<BusStopLat>24.926352</BusStopLat>
+<BusStopLong>67.032823</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KDA Cowrangi</BusStopName>
+<BusStopLat>24.931101</BusStopLat>
+<BusStopLong>67.037947</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Water Pump</BusStopName>
+<BusStopLat>24.933841</BusStopLat>
+<BusStopLong>66.956125</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shahdman Town</BusStopName>
+<BusStopLat>24.962397</BusStopLat>
+<BusStopLong>67.054055</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Godhra Camp</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>North Karachi Industrial Area</BusStopName>
+<BusStopLat>24.976559</BusStopLat>
+<BusStopLong>67.089279</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Saba Cinema</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+
+</Vehicle>

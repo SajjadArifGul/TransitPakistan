@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Coach</VehicleType>
+<VehicleName>Sher Afzal Coach</VehicleName>
+<StartPoint>
+<StartPointName>Mianwali Colony</StartPointName>
+<StartPointLat>24.880961</StartPointLat>
+<StartPointLong>67.008854</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>Qasba Colony</BusStopName>
+<BusStopLat>24.942563</BusStopLat>
+<BusStopLong>67.024119</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Garden</BusStopName>
+<BusStopLat>24.8804942</BusStopLat>
+<BusStopLong>67.0199892</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>7th Day Hospital</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Lucky Star</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Cantt Station</BusStopName>
+<BusStopLat>24.951982</BusStopLat>
+<BusStopLong>67.226224</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Super Market</BusStopName>
+<BusStopLat>24.850538</BusStopLat>
+<BusStopLong>67.009505</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Abdullah Shah Ghazi</BusStopName>
+<BusStopLat>24.881005</BusStopLat>
+<BusStopLong>67.203483</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Khayaban-e-Shamsher</BusStopName>
+<BusStopLat>24.812595</BusStopLat>
+<BusStopLong>67.047208</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gizri</BusStopName>
+<BusStopLat>24.82112</BusStopLat>
+<BusStopLong>67.04348</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sunset Boulevard</BusStopName>
+<BusStopLat>24.831552</BusStopLat>
+<BusStopLong>67.059716</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Akhter Colony</BusStopName>
+<BusStopLat>24.839346</BusStopLat>
+<BusStopLong>67.074013</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Bhitai Colony</BusStopName>
+<BusStopLat>24.810914</BusStopLat>
+<BusStopLong>67.110504</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>Bilal Colony</EndPointName>
+<EndPointLat>24.839141</EndPointLat>
+<EndPointLong>67.073826</EndPointLong>
+</EndPoint>
+</Vehicle>

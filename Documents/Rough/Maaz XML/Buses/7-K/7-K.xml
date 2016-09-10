@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicle>
+<VehicleType>Bus</VehicleType>
+<VehicleName>7-K</VehicleName>
+<StartPoint>
+<StartPointName>Safoora Goth</StartPointName>
+<StartPointLat>24.939342</StartPointLat>
+<StartPointLong>67.156173</StartPointLong>
+</StartPoint>
+<BusStop>
+<BusStopName>PIA Society</BusStopName>
+<BusStopLat>24.916013</BusStopLat>
+<BusStopLong>67.143407</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Pahalwan Goth</BusStopName>
+<BusStopLat>24.908958</BusStopLat>
+<BusStopLong>67.141038</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Jauhar Chowrangi</BusStopName>
+<BusStopLat>24.916366</BusStopLat>
+<BusStopLong>67.130264</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Aladin Park</BusStopName>
+<BusStopLat>24.912262</BusStopLat>
+<BusStopLong>67.105321</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>N.I.P.A Chowrangi</BusStopName>
+<BusStopLat>24.827739</BusStopLat>
+<BusStopLong>67.037052</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulshan-e-Iqbal Chowrangi</BusStopName>
+<BusStopLat>24.885276</BusStopLat>
+<BusStopLong>67.056612</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sohrab Goth</BusStopName>
+<BusStopLat>24.943902</BusStopLat>
+<BusStopLong>67.084417</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Power House</BusStopName>
+<BusStopLat>24.986827</BusStopLat>
+<BusStopLong>67.065875</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Nagan Chowrangi</BusStopName>
+<BusStopLat>24.963673</BusStopLat>
+<BusStopLong>67.06837</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Sakhi Hassan</BusStopName>
+<BusStopLat>24.957133</BusStopLat>
+<BusStopLong>67.054303</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Hyderi</BusStopName>
+<BusStopLat>24.793289</BusStopLat>
+<BusStopLong>67.140293</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>KDA Chowrangi</BusStopName>
+<BusStopLat>24.931101</BusStopLat>
+<BusStopLong>67.037947</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Petrol Pump</BusStopName>
+<BusStopLat>24.935161</BusStopLat>
+<BusStopLong>67.075161</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Habib Bank</BusStopName>
+<BusStopLat>24.85</BusStopLat>
+<BusStopLong>67</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Naurus Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Ghani Chowrangi</BusStopName>
+<BusStopLat>24.861462</BusStopLat>
+<BusStopLong>67.009939</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Shershah</BusStopName>
+<BusStopLat>24.883591</BusStopLat>
+<BusStopLong>66.988376</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Gulbai</BusStopName>
+<BusStopLat>24.876422</BusStopLat>
+<BusStopLong>66.967899</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>PAF Gate</BusStopName>
+<BusStopLat>24.949726</BusStopLat>
+<BusStopLong>67.218568</BusStopLong>
+</BusStop>
+<BusStop>
+<BusStopName>Masroor</BusStopName>
+<BusStopLat>24.875907</BusStopLat>
+<BusStopLong>66.944258</BusStopLong>
+</BusStop>
+<EndPoint>
+<EndPointName>New Truck Stand Grace Village</EndPointName>
+<EndPointLat>24.861462</EndPointLat>
+<EndPointLong>67.009939</EndPointLong>
+</EndPoint>
+
+</Vehicle>
