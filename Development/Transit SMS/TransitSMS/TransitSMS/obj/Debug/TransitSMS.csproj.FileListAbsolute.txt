@@ -17,3 +17,6 @@ F:\Visual Studio Projects\TransitSMS\TransitSMS\obj\Debug\TransitSMS.pdb
 F:\Visual Studio Projects\TransitSMS\TransitSMS\obj\Debug\TransitSMS.csprojResolveAssemblyReference.cache
 F:\Visual Studio Projects\TransitSMS\TransitSMS\obj\Debug\TransitSMS.ConectionForm.resources
 F:\Visual Studio Projects\TransitSMS\TransitSMS\obj\Debug\TransitSMS.SendMessage.resources
+D:\Development\TransitPakistan\Development\Transit SMS\TransitSMS\TransitSMS\bin\Debug\TransitSMS.exe.config
+D:\Development\TransitPakistan\Development\Transit SMS\TransitSMS\TransitSMS\obj\Debug\TransitSMS.exe
+D:\Development\TransitPakistan\Development\Transit SMS\TransitSMS\TransitSMS\obj\Debug\TransitSMS.pdb
